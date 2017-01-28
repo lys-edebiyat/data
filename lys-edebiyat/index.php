@@ -9,7 +9,16 @@ $donemYazarNormalPath = __DIR__ . "/json/donem_yazar.json";
 $appConfigPath = __DIR__ . "/../LYS-Edebiyat-AppConfig.json";
 
 // Get the CSV data from the file.
-$csv = file_get_contents($csvPath);
+$csv = @file_get_contents($csvPath);
+
+// Error checking.
+if(!$csv) {
+    echo "<br>Beni çalıştırdın ama bana CSV datası vermen lazım, onu bulamıyorum şimdi bakınca. 
+        Default olarak '$csvPath' yolundan okuyorum veriyi.
+        Buna uygun olucak şekilde CSV'yi yerleştirirsen sorunsuzca okurum gibi.";
+    die();
+}
+
 $csv = explode("\n", $csv);
 
 $donemYazarEser = array();
@@ -81,7 +90,7 @@ if ($donemYazarUpdated AND $donemYazarEserUpdated) {
         <br><br>";
 } else {
     echo "<br>
-        Sen bunu çalıştırdın ama bişey değişmedi, yine de AppConfig çıktısını bırakıyorum alta.
+        Sen beni çalıştırdın ama bişey değişmedi, tüm dosyalar aynı gibi görünüyo, yine de AppConfig çıktısını bırakıyorum alta, belki işine yarar.
         <br><br>";
 }
 pd($appConfig);
@@ -207,9 +216,11 @@ function update_build_config_file($appConfigPath, $donemYazarEserPath = NULL, $d
     if($donemYazarEserPath OR $donemYazarPath) {
         $appConfig = json_encode($appConfig, JSON_UNESCAPED_SLASHES);
         file_force_contents($appConfigPath, $appConfig);
+        return pretty_print_JSON($appConfig);
     }
 
-    return pretty_print_JSON($appConfig);
+    return pretty_print_JSON(json_encode($appConfig, JSON_UNESCAPED_SLASHES));
+
 }
 
 /**
