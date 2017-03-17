@@ -9,4 +9,4 @@ Both of the platforms are using the same data, and the iOS version is also able 
 
 ----
 
-The dataset and the script is licensed under **MIT License.**
+The dataset and the scripts are licensed under **MIT License.**
