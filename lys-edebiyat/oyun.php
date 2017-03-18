@@ -13,37 +13,8 @@ if (!$csv) {
     die();
 }
 
-$csv = explode("\n", $csv);
-
-$donemYazarEser = array();
-foreach ($csv as $key => $value) {
-
-    // Parse the CSV line.
-    $temp = str_getcsv($value);
-
-    // If this is not an empty line, process it.
-    if (count($temp) == 4) {
-
-        // Collect the author, book and title information to variables.
-        $donem = $temp[0];
-        $yazar = $temp[1];
-        $eser = $temp[2];
-        $digerYazar = $temp[3];
-
-        $eserInfo = array();
-
-        $eserInfo['eser'] = $eser;
-        if ($digerYazar != '') {
-            $eserInfo['digerYazar'] = $digerYazar;
-        }
-
-        // Push the values to arrays.
-        $donemYazarEser[$donem][$yazar][] = $eserInfo;
-    }
-
-    // Remove the raw data.
-    unset($csv[$key]);
-}
+$donemYazarEser = construct_donem_yazar_eser($csv);
+unset($csv);
 
 // Get the keys since those are unique values.
 foreach ($donemYazarEser as $donem => $yazarlar) {
@@ -75,6 +46,6 @@ if ($fileContents !== $donemYazar) {
 }
 
 // Update the build config JSON appropriately.
-$appConfig = update_build_config_file($appConfigPath, $donemYazarEserUpdated, $donemYazarUpdated);
+$appConfig = update_build_config_file($donemYazarEserUpdated, $donemYazarUpdated);
 output_message($donemYazarUpdated OR $donemYazarEserUpdated);
 pd($appConfig);

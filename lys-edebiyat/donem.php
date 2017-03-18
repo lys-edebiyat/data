@@ -36,7 +36,7 @@ if ($fileContents !== $donemInfo) {
 }
 
 // Update the build config JSON appropriately.
-$appConfig = update_build_config_file($appConfigPath, null, null, $donemInfoMinifiedPath);
+$appConfig = update_build_config_file(null, null, $donemInfoMinifiedPath);
 output_message($donemInfoUpdated);
 pd($appConfig);
 

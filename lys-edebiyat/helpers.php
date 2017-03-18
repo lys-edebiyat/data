@@ -12,7 +12,11 @@ $donemYazarNormalPath = __DIR__ . "/json/donem_yazar.json";
 $donemInfoMinifiedPath = __DIR__ . "/json/donem_info.min.json";
 $donemInfoNormalPath = __DIR__ . "/json/donem_info.json";
 
-$appConfigPath = __DIR__ . "/../LYS-Edebiyat-AppConfig.json";
+$GLOBALS['appConfigPath'] = __DIR__ . "/../LYS-Edebiyat-AppConfig.json";
+
+$donemlerTabloAdi = 'donemler';
+$yazarlarTabloAdi = 'yazarlar';
+$eserlerTabloAdi = 'eserler';
 
 /**
  * Taken from the StackOverflow answer: http://stackoverflow.com/a/9776726 - Prettifies given JSON string.
@@ -121,10 +125,13 @@ function create_JSON_files($normalPath, $minifiedPath, $data) {
  * @param $appConfigPath
  * @param null $donemYazarEserPath
  * @param null $donemYazarPath
+ * @param null $donemInfoPath
+ * @param null $databasePath
  * @return string
  */
-function update_build_config_file($appConfigPath, $donemYazarEserPath = null, $donemYazarPath = null, $donemInfoPath = null) {
-    $appConfig = file_get_contents($appConfigPath);
+function update_build_config_file($donemYazarEserPath = null,
+                                  $donemYazarPath = null, $donemInfoPath = null, $databasePath = null) {
+    $appConfig = file_get_contents($GLOBALS['appConfigPath']);
     $appConfig = json_decode($appConfig, true);
 
     // Update the build numbers and URLs if the data is updated.
@@ -155,10 +162,19 @@ function update_build_config_file($appConfigPath, $donemYazarEserPath = null, $d
         $appConfig['AppConfig']['DonemInfoDatabaseUrl'] = $donemInfoPath;
     }
 
+    if ($databasePath) {
+        $donemInfoPath = create_url_from_path($databasePath);
+        if (!isset($appConfig['AppConfig']['DatabaseBuildNo'])) {
+            $appConfig['AppConfig']['DatabaseBuildNo'] = 0;
+        }
+        $appConfig['AppConfig']['DatabaseBuildNo'] += 1;
+        $appConfig['AppConfig']['DatabaseURL'] = $databasePath;
+    }
+
     // If any part of the config is updated, commit it to the file.
     if ($donemYazarEserPath OR $donemYazarPath OR $donemInfoPath) {
         $appConfig = json_encode($appConfig, JSON_UNESCAPED_SLASHES);
-        file_force_contents($appConfigPath, $appConfig);
+        file_force_contents($GLOBALS['appConfigPath'], $appConfig);
 
         return pretty_print_JSON($appConfig);
     }
@@ -196,8 +212,52 @@ function output_message($status) {
  * @param $data
  */
 function pd($data) {
+    pp($data);
+    die();
+}
+
+function pp($data) {
     echo '<pre>';
     print_r($data);
     echo '</pre>';
-    die();
+}
+
+function construct_donem_yazar_eser($csv) {
+    $csv = explode("\n", $csv);
+
+    $donemYazarEser = array();
+    foreach ($csv as $key => $value) {
+
+        // Parse the CSV line.
+        $temp = str_getcsv($value);
+
+        // If this is not an empty line, process it.
+        if (count($temp) == 4) {
+
+            // Collect the author, book and title information to variables.
+            $donem = $temp[0];
+            $yazar = $temp[1];
+            $eser = $temp[2];
+            $digerYazar = $temp[3];
+
+            $eserInfo = array();
+
+            $eserInfo['eser'] = $eser;
+            if ($digerYazar != '') {
+                $eserInfo['digerYazar'] = $digerYazar;
+            }
+
+            // Push the values to arrays.
+            $donemYazarEser[$donem][$yazar][] = $eserInfo;
+        }
+
+        // Remove the raw data.
+        unset($csv[$key]);
+    }
+
+    return $donemYazarEser;
+}
+
+function get_app_config() {
+    return pretty_print_JSON(file_get_contents($GLOBALS['appConfigPath']));
 }
