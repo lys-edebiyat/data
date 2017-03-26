@@ -291,6 +291,29 @@
 				"eser": "Zeyneb"
 			}
 		],
+		"A. Kutsi Tecer": [
+			{
+				"eser": "Bir Pazar Günü"
+			},
+			{
+				"eser": "Koçyiğit Köroğlu"
+			},
+			{
+				"eser": "Köşebaşı"
+			},
+			{
+				"eser": "Köylü Temsilcileri"
+			},
+			{
+				"eser": "Satılık Ev"
+			},
+			{
+				"eser": "Sivas Halk Şairleri Bayramı"
+			},
+			{
+				"eser": "Yazılan Bozulmadan"
+			}
+		],
 		"A. Muhip Dıranas": [
 			{
 				"eser": "Çıkmaz"
@@ -5852,29 +5875,6 @@
 		]
 	},
 	"Tanzimat Dönemi": {
-		"A. Kutsi Tecer": [
-			{
-				"eser": "Bir Pazar Günü"
-			},
-			{
-				"eser": "Koçyiğit Köroğlu"
-			},
-			{
-				"eser": "Köşebaşı"
-			},
-			{
-				"eser": "Köylü Temsilcileri"
-			},
-			{
-				"eser": "Satılık Ev"
-			},
-			{
-				"eser": "Sivas Halk Şairleri Bayramı"
-			},
-			{
-				"eser": "Yazılan Bozulmadan"
-			}
-		],
 		"A. Mithat Efendi": [
 			{
 				"eser": "Dürdane Hanım"
@@ -6334,6 +6334,41 @@
 			},
 			{
 				"eser": "Piyale"
+			}
+		],
+		"Tahsin Nahit": [
+			{
+				"eser": "Kösem Sultan"
+			},
+			{
+				"eser": "Ruh-i Bikayd"
+			},
+			{
+				"eser": "Hicranlar"
+			},
+			{
+				"eser": "Jön Türk"
+			},
+			{
+				"eser": "Firar"
+			},
+			{
+				"eser": "Aşkımız"
+			},
+			{
+				"eser": "Sanatkârlar"
+			},
+			{
+				"eser": "Ben Başka"
+			},
+			{
+				"eser": "Talak"
+			},
+			{
+				"eser": "Kırık Mahfaza"
+			},
+			{
+				"eser": "Osman-ı Sani"
 			}
 		],
 		"R. Halit Karay": [

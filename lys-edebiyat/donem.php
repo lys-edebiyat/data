@@ -13,17 +13,7 @@ if (!$data) {
         Buna uygun olucak şekilde CSV'yi yerleştirirsen sorunsuzca okurum gibi.";
     die();
 }
-$data = explode(PHP_EOL, $data);
-
-foreach ($data as $key => $item) {
-    $item = explode(';', $item);
-    $donem = array_shift($item);
-    $item = array_combine($keys, $item);
-    $item['bilgi'] = str_replace('--LINE_BREAK--', PHP_EOL . PHP_EOL, $item['bilgi']);
-    $item['yazarlar'] = explode(',', $item['yazarlar']);
-    $data[$donem] = $item;
-    unset($data[$key]);
-}
+$data = construct_era_info($data, $keys);
 $donemInfo = json_encode($data, JSON_UNESCAPED_UNICODE);
 
 // Check if the file contents are really updated.
@@ -40,3 +30,20 @@ $appConfig = update_build_config_file(null, null, $donemInfoMinifiedPath);
 output_message($donemInfoUpdated);
 pd($appConfig);
 
+
+
+function construct_era_info($csv, $keys){
+    $csv = explode(PHP_EOL, $csv);
+
+    foreach ($csv as $key => $item) {
+        $item = str_replace('\r', '', $item);
+        $item = explode(';', $item);
+        $donem = array_shift($item);
+        $item = array_combine($keys, $item);
+        $item['bilgi'] = str_replace('--LINE_BREAK--', PHP_EOL . PHP_EOL, $item['bilgi']);
+        $item['yazarlar'] = explode(',', $item['yazarlar']);
+        $csv[$donem] = $item;
+        unset($csv[$key]);
+    }
+    return $csv;
+}

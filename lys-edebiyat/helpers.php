@@ -17,6 +17,7 @@ $GLOBALS['appConfigPath'] = __DIR__ . "/../LYS-Edebiyat-AppConfig.json";
 $donemlerTabloAdi = 'donemler';
 $yazarlarTabloAdi = 'yazarlar';
 $eserlerTabloAdi = 'eserler';
+$donemInfoTabloAdi = 'donemler_info';
 
 /**
  * Taken from the StackOverflow answer: http://stackoverflow.com/a/9776726 - Prettifies given JSON string.
@@ -131,8 +132,13 @@ function create_JSON_files($normalPath, $minifiedPath, $data) {
  */
 function update_build_config_file($donemYazarEserPath = null,
                                   $donemYazarPath = null, $donemInfoPath = null, $databasePath = null) {
-    $appConfig = file_get_contents($GLOBALS['appConfigPath']);
-    $appConfig = json_decode($appConfig, true);
+    $appConfig = json_decode("{}", true);
+    if(file_exists($GLOBALS['appConfigPath'])) {
+        $appConfig = file_get_contents($GLOBALS['appConfigPath']);
+        $appConfig = json_decode($appConfig, true);
+    } else {
+        file_force_contents($GLOBALS['appConfigPath'], "{}");
+    }
 
     // Update the build numbers and URLs if the data is updated.
     if ($donemYazarEserPath) {
@@ -257,6 +263,7 @@ function construct_donem_yazar_eser($csv) {
 
     return $donemYazarEser;
 }
+
 
 function get_app_config() {
     return pretty_print_JSON(file_get_contents($GLOBALS['appConfigPath']));
