@@ -187,7 +187,7 @@ function constructBookQuery($eserler, $yazarIndex, $eserlerTabloAdi) {
     $eserQuery = "insert into $eserlerTabloAdi (yazar_id, eser) values ";
     foreach ($eserler as $eserAdi => $yazarAdi) {
         $yazarId = $yazarIndex[$yazarAdi] + 1;
-        $eserQuery .= "($yazarId, '$eserAdi'),";
+        $eserQuery .= "($yazarId, '". SQLite3::escapeString($eserAdi) . "'),";
     }
     $eserQuery = rtrim($eserQuery, ',') . ';';
 

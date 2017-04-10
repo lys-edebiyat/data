@@ -1,6 +1,8 @@
 {
 	"Milli Edebiyat Dönemi": [
 		"A. Canip Yöntem",
+		"A. Kutsi Tecer",
+		"E. Hazım Teperyan",
 		"Fuat Köprülü",
 		"M. Emin Yurdakul",
 		"Ömer Seyfettin",
@@ -12,7 +14,6 @@
 	"Cumhuriyet Dönemi": [
 		"A. Hamdi Tanpınar",
 		"A. Hamit Tarhan",
-		"A. Kutsi Tecer",
 		"A. Muhip Dıranas",
 		"A. Nihat Asya",
 		"A. Şinasi Hisar",
@@ -147,7 +148,6 @@
 		"A.Hikmet Müftüoğlu",
 		"C. Sahir Erozan",
 		"C. Şahabettin",
-		"E. Hazım Teperyan",
 		"H. Cahit Yalçın",
 		"Mehmet Rauf",
 		"Tevfik Fikret"
@@ -156,17 +156,28 @@
 		"Ahmedi",
 		"Ali Şir Nevai",
 		"Baki",
+		"Evliya Çelebi",
 		"Fuzuli",
 		"Aşık Paşa",
 		"Gülşehri",
 		"Hoca Dehhani",
 		"Katip Çelebi",
+		"Mercimek Ahmet",
+		"Mevlana",
 		"Nabi",
 		"Nefi",
 		"Seydi Ali Reis",
 		"Sinan Paşa",
 		"Süleyman Çelebi",
-		"Şeyhi"
+		"Şeyh Galib",
+		"Şeyhi",
+		"Zati",
+		"Ahmet Fakih",
+		"Enderunlu Fazıl",
+		"Keçecizade İzzet Molla",
+		"Yenişehirli Avni",
+		"Şeyhülislam Yahya",
+		"Şeyyad Hamza"
 	],
 	"Fecr-i Ati Edebiyatı": [
 		"Ahmet Haşim",
@@ -179,10 +190,20 @@
 		"M. Akif Ersoy"
 	],
 	"Halk Edebiyatı": [
-		"Evliya Çelebi",
-		"Mercimek Ahmet",
-		"Mevlana",
-		"Şeyh Galib",
-		"Zati"
+		"Aşık Mahzuni Şerif",
+		"Aşık Veysel",
+		"Aşık Ömer",
+		"Bayburtlu Zihni",
+		"Dadaloğlu",
+		"Erzurumlu Emrah",
+		"Eşrefoğlu Rumi",
+		"Gevheri",
+		"Hacı Bayram Veli",
+		"Karacaoğlan",
+		"Kaygusuz Abdal",
+		"Kayıkçı Kul Mustafa",
+		"Köroğlu",
+		"Pir Sultan Abdal",
+		"Yunus Emre"
 	]
 }
