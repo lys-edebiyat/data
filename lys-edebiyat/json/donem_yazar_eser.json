@@ -1,233 +1,249 @@
 {
-	"Milli Edebiyat Dönemi": {
-		"A. Canip Yöntem": [
+	"Bağımsız": {
+		"Ahmet Rasim": [
 			{
-				"eser": "Geçtiğim Yol"
+				"eser": "Afife"
 			},
 			{
-				"eser": "Türk Edebiyatı Antolojisi"
+				"eser": "Bir Sefilenin Evrak-ı Metrukesi"
+			},
+			{
+				"eser": "Gam-ı Hicran"
+			},
+			{
+				"eser": "Gülüp Ağladıklarım"
+			},
+			{
+				"eser": "Güzel Eleni"
+			},
+			{
+				"eser": "Hamamcı Ülfet"
+			},
+			{
+				"eser": "İki Günahkar"
+			},
+			{
+				"eser": "İki Sevgili"
+			},
+			{
+				"eser": "Meyl-i Dil"
+			},
+			{
+				"eser": "Muharrir Bu Ya"
+			},
+			{
+				"eser": "Ramazan Sohbetleri"
+			},
+			{
+				"eser": "Sevda-Yı Sermedi"
+			},
+			{
+				"eser": "Ömr-i Edebi"
+			},
+			{
+				"eser": "Ülfet"
+			},
+			{
+				"eser": "Şehir Mektupları"
 			}
 		],
-		"A. Kutsi Tecer": [
+		"H. Rahmi Gürpınar": [
 			{
-				"eser": "Bir Pazar Günü"
+				"eser": "Ben Deli Miyim?"
 			},
 			{
-				"eser": "Koçyiğit Köroğlu"
+				"eser": "Billur Kalp"
 			},
 			{
-				"eser": "Köşebaşı"
+				"eser": "Bir Muadele-İsevda"
 			},
 			{
-				"eser": "Köylü Temsilcileri"
+				"eser": "Cadı Çarpışıyor"
 			},
 			{
-				"eser": "Satılık Ev"
+				"eser": "Cadı"
 			},
 			{
-				"eser": "Sivas Halk Şairleri Bayramı"
+				"eser": "Can Pazarı"
 			},
 			{
-				"eser": "Yazılan Bozulmadan"
+				"eser": "Cehennemlik"
+			},
+			{
+				"eser": "Deli Filozof"
+			},
+			{
+				"eser": "Dirilen İskelet"
+			},
+			{
+				"eser": "Dünyanın Mihveri Kadın Mı Para Mı?"
+			},
+			{
+				"eser": "Efsuncu Baba"
+			},
+			{
+				"eser": "Eti Senin Kemiği Benim"
+			},
+			{
+				"eser": "Evlere Şenlik"
+			},
+			{
+				"eser": "Eşkıya İninde"
+			},
+			{
+				"eser": "Gulyabani"
+			},
+			{
+				"eser": "Gönül Bir Yeldeğirmenidir Sevda Öğütür"
+			},
+			{
+				"eser": "Gönül Ticareti"
+			},
+			{
+				"eser": "Gülbahar Hanım"
+			},
+			{
+				"eser": "Hakka Sığındık"
+			},
+			{
+				"eser": "Hayattan Sayfalar"
+			},
+			{
+				"eser": "Hazan Bülbülü"
+			},
+			{
+				"eser": "İffet"
+			},
+			{
+				"eser": "İki Damla Yaş"
+			},
+			{
+				"eser": "İki Hödüğün Seyahati"
+			},
+			{
+				"eser": "İnsanlar Maymun Muydu"
+			},
+			{
+				"eser": "Kaderin Cilvesi"
+			},
+			{
+				"eser": "Kadın Erkekleşince"
+			},
+			{
+				"eser": "Kadınlar Vaizi"
+			},
+			{
+				"eser": "Katil Buse"
+			},
+			{
+				"eser": "Kaynanam Nasıl Kudurdu?"
+			},
+			{
+				"eser": "Kesik Baş"
+			},
+			{
+				"eser": "Kokotlar Mektebi"
+			},
+			{
+				"eser": "Kuyruklu Yıldız Altında Bir İzdivaç"
+			},
+			{
+				"eser": "Melek Sanmıştım Şeytanı"
+			},
+			{
+				"eser": "Metres"
+			},
+			{
+				"eser": "Meyhanede Hanımlar"
+			},
+			{
+				"eser": "Mezardan Kalkan Şehit"
+			},
+			{
+				"eser": "Mutallaka"
+			},
+			{
+				"eser": "Mürebbiye"
+			},
+			{
+				"eser": "Namusla Açlık Meselesi"
+			},
+			{
+				"eser": "Namuslu Kokotlar"
+			},
+			{
+				"eser": "Nimetşinas"
+			},
+			{
+				"eser": "Sanat Ve Edebiyat"
+			},
+			{
+				"eser": "Sevda Peşinde"
+			},
+			{
+				"eser": "Son Arzu"
+			},
+			{
+				"eser": "Tebessümü Elem"
+			},
+			{
+				"eser": "Tesadüf"
+			},
+			{
+				"eser": "Tokuşan Kafalar"
+			},
+			{
+				"eser": "Toraman"
+			},
+			{
+				"eser": "Tutulmuş Gönüller"
+			},
+			{
+				"eser": "Tünelden İlk Çıkış"
+			},
+			{
+				"eser": "Utanmaz Adam"
+			},
+			{
+				"eser": "Ölüler Yaşıyor Mu"
+			},
+			{
+				"eser": "Ölüm Bir Kurtuluş Mudur?"
+			},
+			{
+				"eser": "Şekavet-i Edebiye Tartışmaları"
+			},
+			{
+				"eser": "Şeytan İşi"
+			},
+			{
+				"eser": "Şık"
+			},
+			{
+				"eser": "Şıpsevdi"
 			}
 		],
-		"E. Hazım Teperyan": [
+		"M. Akif Ersoy": [
 			{
-				"eser": "Canlı Tarihler"
+				"eser": "Asım"
 			},
 			{
-				"eser": "Eski Şeyler"
+				"eser": "Fatih Kürsüsünde"
 			},
 			{
-				"eser": "Küçük Paşa"
+				"eser": "Gölgeler"
 			},
 			{
-				"eser": "Zalimane Bir İdam Hükmü"
-			}
-		],
-		"Fuat Köprülü": [
-			{
-				"eser": "Tde Hakkında Araştırmalar"
+				"eser": "Hakkın Sesleri"
 			},
 			{
-				"eser": "Türk Edb. Tarihi"
+				"eser": "Hatıralar"
 			},
 			{
-				"eser": "Türk Edebiyatında İlk Mutasavvıflar"
+				"eser": "Safahat"
 			},
 			{
-				"eser": "Türk Saz Şairleri"
-			}
-		],
-		"M. Emin Yurdakul": [
-			{
-				"eser": "Aydın Kızları"
-			},
-			{
-				"eser": "Dante’ye"
-			},
-			{
-				"eser": "Dicle Önünde"
-			},
-			{
-				"eser": "Ey Türk Uyan"
-			},
-			{
-				"eser": "Fazilet Ve Asilet"
-			},
-			{
-				"eser": "Hastabakıcı Kadınlar"
-			},
-			{
-				"eser": "Mustafa Kemal"
-			},
-			{
-				"eser": "Ordunun Destanı"
-			},
-			{
-				"eser": "Tan Sesleri"
-			},
-			{
-				"eser": "Turana Doğru"
-			},
-			{
-				"eser": "Türk Sazı"
-			},
-			{
-				"eser": "Türk’ün Hukuku."
-			},
-			{
-				"eser": "Türkçe Şiirler"
-			}
-		],
-		"Ömer Seyfettin": [
-			{
-				"eser": "And"
-			},
-			{
-				"eser": "Ashab-ı Kehfimiz"
-			},
-			{
-				"eser": "Bahar Ve Kelebekler"
-			},
-			{
-				"eser": "Başını Vermeyen Şehit"
-			},
-			{
-				"eser": "Beyaz Lale"
-			},
-			{
-				"eser": "Bomba"
-			},
-			{
-				"eser": "Efruz Bey"
-			},
-			{
-				"eser": "Falaka"
-			},
-			{
-				"eser": "Gizli Mabed"
-			},
-			{
-				"eser": "İlk Düşen Ak"
-			},
-			{
-				"eser": "Kaşağı"
-			},
-			{
-				"eser": "Mahçupluk İmtihanı"
-			},
-			{
-				"eser": "Pembe İncili Kaftan"
-			},
-			{
-				"eser": "Prima Türk Çocuğu"
-			},
-			{
-				"eser": "Topuz"
-			},
-			{
-				"eser": "Yalnız Efe"
-			},
-			{
-				"eser": "Yüksek Ökçeler"
-			}
-		],
-		"Ruşen Eşref Ünaydın": [
-			{
-				"eser": "Ayrılıklar"
-			},
-			{
-				"eser": "Boğaziçi"
-			}
-		],
-		"Y. Kemal Beyatlı": [
-			{
-				"eser": "Eski Şiirin Rüzgarıyla"
-			},
-			{
-				"eser": "Siyasi Ve Edebi Portreler"
-			},
-			{
-				"eser": "Aziz İstanbul"
-			},
-			{
-				"eser": "Edebiyata Dair…"
-			},
-			{
-				"eser": "Eğil Dağlar"
-			},
-			{
-				"eser": "Kendi Gök Kubbemiz"
-			},
-			{
-				"eser": "Rübailer"
-			},
-			{
-				"eser": "Siyasi Hikayeler"
-			}
-		],
-		"Ziya Gökalp": [
-			{
-				"eser": "Altın Işık"
-			},
-			{
-				"eser": "Kızılelma"
-			},
-			{
-				"eser": "Malta Mektupları"
-			},
-			{
-				"eser": "Türk Medeniyeti Tarihi"
-			},
-			{
-				"eser": "Türkçülüğün Esasları"
-			},
-			{
-				"eser": "Türkleşmek-İslamlaşmak-Muasırlaşmak"
-			}
-		],
-		"Ziya Paşa": [
-			{
-				"eser": "Defter-i Amal"
-			},
-			{
-				"eser": "Emil"
-			},
-			{
-				"eser": "Endülüs Tarihi"
-			},
-			{
-				"eser": "Engizisyon Tarihi"
-			},
-			{
-				"eser": "Eşar-ı Ziya"
-			},
-			{
-				"eser": "Harabad"
-			},
-			{
-				"eser": "Zafername"
+				"eser": "Süleymaniye Kürsüsünde"
 			}
 		]
 	},
@@ -240,16 +256,10 @@
 				"eser": "Aynadaki Kadın"
 			},
 			{
-				"eser": "Edebiyat Üzerine Denemeler"
-			},
-			{
-				"eser": "Sahnenin Dışındakiler"
-			},
-			{
-				"eser": "Yaşadığım Gibi"
-			},
-			{
 				"eser": "Beş Şehir"
+			},
+			{
+				"eser": "Edebiyat Üzerine Denemeler"
 			},
 			{
 				"eser": "Huzur"
@@ -261,7 +271,13 @@
 				"eser": "Saatleri Ayarlama Enstitüsü"
 			},
 			{
+				"eser": "Sahnenin Dışındakiler"
+			},
+			{
 				"eser": "Yaz Yağmuru"
+			},
+			{
+				"eser": "Yaşadığım Gibi"
 			}
 		],
 		"A. Hamit Tarhan": [
@@ -299,9 +315,6 @@
 				"eser": "Nesteren"
 			},
 			{
-				"eser": "Ölü"
-			},
-			{
 				"eser": "Sahra"
 			},
 			{
@@ -318,35 +331,23 @@
 			},
 			{
 				"eser": "Zeyneb"
+			},
+			{
+				"eser": "Ölü"
 			}
 		],
 		"A. Muhip Dıranas": [
-			{
-				"eser": "Çıkmaz"
-			},
 			{
 				"eser": "Kırık Saz Gölgeler"
 			},
 			{
 				"eser": "O. Böyle İstemezdi"
+			},
+			{
+				"eser": "Çıkmaz"
 			}
 		],
 		"A. Nihat Asya": [
-			{
-				"eser": "Ayetler"
-			},
-			{
-				"eser": "Bir Bayrak Rüzgar Bekliyor"
-			},
-			{
-				"eser": "Dualar Ve Aminler"
-			},
-			{
-				"eser": "Heykeltıraş"
-			},
-			{
-				"eser": "Yastığımın Rüyası"
-			},
 			{
 				"eser": "Aramak Ve Söylememek"
 			},
@@ -354,10 +355,19 @@
 				"eser": "Avrupa’dan Rubailer"
 			},
 			{
-				"eser": "Ayın Aynasında"
+				"eser": "Ayetler"
 			},
 			{
 				"eser": "Aynalarda Kalan"
+			},
+			{
+				"eser": "Ayın Aynasında"
+			},
+			{
+				"eser": "Bir Bayrak Rüzgar Bekliyor"
+			},
+			{
+				"eser": "Dualar Ve Aminler"
 			},
 			{
 				"eser": "Emzikler"
@@ -369,25 +379,28 @@
 				"eser": "Fatihler Ölmez Ve Takvimler"
 			},
 			{
+				"eser": "Heykeltıraş"
+			},
+			{
 				"eser": "Kanatlar Ve Gagalar"
 			},
 			{
 				"eser": "Kanatlarını Arayanlar"
 			},
 			{
-				"eser": "Kıbrıs Rüyaları"
-			},
-			{
 				"eser": "Kova Burcu"
-			},
-			{
-				"eser": "Kökler Ve Dallar"
 			},
 			{
 				"eser": "Kubbe- Harda"
 			},
 			{
 				"eser": "Kubbeler"
+			},
+			{
+				"eser": "Kökler Ve Dallar"
+			},
+			{
+				"eser": "Kıbrıs Rüyaları"
 			},
 			{
 				"eser": "Nisan"
@@ -400,6 +413,9 @@
 			},
 			{
 				"eser": "Top Sesleri"
+			},
+			{
+				"eser": "Yastığımın Rüyası"
 			}
 		],
 		"A. Şinasi Hisar": [
@@ -416,9 +432,6 @@
 				"eser": "Boğaziçi Yalıları"
 			},
 			{
-				"eser": "Çamlıca’daki Eniştemiz"
-			},
-			{
 				"eser": "Fehim Bey Ve Biz"
 			},
 			{
@@ -429,230 +442,9 @@
 			},
 			{
 				"eser": "İstanbul Ve Pieere Loti"
-			}
-		],
-		"Aziz Nesin": [
-			{
-				"eser": "Yaşar Ne Yaşar Ne Yaşamaz"
-			},
-			{
-				"eser": "Aferin"
-			},
-			{
-				"eser": "Ah Biz Eşekler"
-			},
-			{
-				"eser": "Ah Biz Ödlek Aydınlar"
-			},
-			{
-				"eser": "Aziz Dededen Masallar"
-			},
-			{
-				"eser": "Azizname"
-			},
-			{
-				"eser": "Bay Düdük"
-			},
-			{
-				"eser": "Beş Kısa Oyun"
-			},
-			{
-				"eser": "Bir Koltuk Nasıl Devrilir"
-			},
-			{
-				"eser": "Bir Sürgünün Hatıraları"
-			},
-			{
-				"eser": "Bir Şey Yap Met"
-			},
-			{
-				"eser": "Biraz Gelir Misin"
-			},
-			{
-				"eser": "Biz Adam Olmayız"
-			},
-			{
-				"eser": "Böyle Gelmiş Böyle Gitmez"
-			},
-			{
-				"eser": "Bülbül Yuvası Evler"
-			},
-			{
-				"eser": "Büyük Grev"
-			},
-			{
-				"eser": "Canikom"
-			},
-			{
-				"eser": "Çiçu"
-			},
-			{
-				"eser": "Çuvala Doldurulmuş Kediler"
-			},
-			{
-				"eser": "Damda Deli Var"
-			},
-			{
-				"eser": "Deliler Boşandı"
-			},
-			{
-				"eser": "Duyduk Duymadık Demeyin"
-			},
-			{
-				"eser": "Düdükçülerle Fırçacıların Savaşı"
-			},
-			{
-				"eser": "Dünya Kazan Ben Kepçe"
-			},
-			{
-				"eser": "Erkek Sabahat"
-			},
-			{
-				"eser": "Fil Hamdi"
-			},
-			{
-				"eser": "Geriye Kalan"
-			},
-			{
-				"eser": "Gıdıgıdı"
-			},
-			{
-				"eser": "Gol Kralı Sait"
-			},
-			{
-				"eser": "Gözüne Gözlük"
-			},
-			{
-				"eser": "Hadi Öldürsene"
-			},
-			{
-				"eser": "Hangi Parti Kazanacak"
-			},
-			{
-				"eser": "Havadan Sudan"
-			},
-			{
-				"eser": "Hayvan Deyip Geçme"
-			},
-			{
-				"eser": "Hoptirnam"
-			},
-			{
-				"eser": "Hoşçakalın"
-			},
-			{
-				"eser": "İnsanlar Konuşa Konuşa"
-			},
-			{
-				"eser": "İt Kuyruğu"
-			},
-			{
-				"eser": "Kadın Olan Erkekler"
-			},
-			{
-				"eser": "Kalpazanlık Bile Yapılamıyor"
-			},
-			{
-				"eser": "Kazan Töreni"
-			},
-			{
-				"eser": "Kendini Yakalamak"
-			},
-			{
-				"eser": "Koltuk"
-			},
-			{
-				"eser": "Korkudan Korkmak"
-			},
-			{
-				"eser": "Kördöğüşü"
-			},
-			{
-				"eser": "Maçinli Kız İçin Ev"
-			},
-			{
-				"eser": "Mahallenin Kısmeti"
-			},
-			{
-				"eser": "Mahmut İle Nigar"
-			},
-			{
-				"eser": "Memleketin Birinde"
-			},
-			{
-				"eser": "Merhaba"
-			},
-			{
-				"eser": "Nah Kalkınırsın"
-			},
-			{
-				"eser": "Nazik Alet"
-			},
-			{
-				"eser": "Nutuk Makinası"
-			},
-			{
-				"eser": "Ölmüş Eşek"
-			},
-			{
-				"eser": "Poliste"
-			},
-			{
-				"eser": "Rıfat Bey Neden Kaşınıyor"
-			},
-			{
-				"eser": "Rüyalarım Ziyan Olmasın"
-			},
-			{
-				"eser": "Salkım Salkım Asılacak Adamlar"
-			},
-			{
-				"eser": "Sivas Acısı"
-			},
-			{
-				"eser": "Sondan Başa"
-			},
-			{
-				"eser": "Suçlanana Ve Aklanan Yazılar"
-			},
-			{
-				"eser": "Şimdiki Çocuklar Harika"
-			},
-			{
-				"eser": "Tatlı Betüş"
-			},
-			{
-				"eser": "Tek Yol"
-			},
-			{
-				"eser": "Toros Canavarı"
-			},
-			{
-				"eser": "Tut Elimden Rovni"
-			},
-			{
-				"eser": "Uyusana Tosunum"
-			},
-			{
-				"eser": "Vatan Sağolsun"
-			},
-			{
-				"eser": "Yaşasın Memleket"
-			},
-			{
-				"eser": "Yedek Parça"
-			},
-			{
-				"eser": "Yeşil Renkli Namus Gazı"
-			},
-			{
-				"eser": "Yokuşun Başı"
-			},
-			{
-				"eser": "Yüz Liraya Bir Deli"
 			},
 			{
-				"eser": "Zübük"
+				"eser": "Çamlıca’daki Eniştemiz"
 			}
 		],
 		"Abbas Sayar": [
@@ -666,19 +458,19 @@
 				"eser": "Can Şenliği"
 			},
 			{
-				"eser": "Çelo"
-			},
-			{
 				"eser": "Dik Bayır"
 			},
 			{
 				"eser": "Tarlabaşı Salkım Saçak"
 			},
 			{
+				"eser": "Yorganımı Sıkı Sar"
+			},
+			{
 				"eser": "Yılkı Atı"
 			},
 			{
-				"eser": "Yorganımı Sıkı Sar"
+				"eser": "Çelo"
 			}
 		],
 		"Adalet Ağaoğlu": [
@@ -687,15 +479,6 @@
 			},
 			{
 				"eser": "Bir Kahramanın Ölümü"
-			},
-			{
-				"eser": "Çatıdaki Çatlak"
-			},
-			{
-				"eser": "Çıkış"
-			},
-			{
-				"eser": "Çok Uzak-Fazla Yakın"
 			},
 			{
 				"eser": "Duvar Öyküsü"
@@ -728,9 +511,6 @@
 				"eser": "Kozalar"
 			},
 			{
-				"eser": "Ölmeye Yatmak"
-			},
-			{
 				"eser": "Romantik Bir Viyana Yazı"
 			},
 			{
@@ -746,16 +526,28 @@
 				"eser": "Tombala"
 			},
 			{
-				"eser": "Üç Beş Kişi"
-			},
-			{
-				"eser": "Üç Oyun"
-			},
-			{
 				"eser": "Yazsonu"
 			},
 			{
 				"eser": "Yüksek Gerilim"
+			},
+			{
+				"eser": "Çatıdaki Çatlak"
+			},
+			{
+				"eser": "Çok Uzak-Fazla Yakın"
+			},
+			{
+				"eser": "Çıkış"
+			},
+			{
+				"eser": "Ölmeye Yatmak"
+			},
+			{
+				"eser": "Üç Beş Kişi"
+			},
+			{
+				"eser": "Üç Oyun"
 			}
 		],
 		"Aka Gündüz": [
@@ -833,19 +625,16 @@
 				"eser": "Sağım Solum Sobe"
 			},
 			{
-				"eser": "Sırtlan Payı"
-			},
-			{
 				"eser": "Sisler Bulvarı"
 			},
 			{
 				"eser": "Sokaktaki Adam"
 			},
 			{
-				"eser": "Ulusal Kültür Savaşı"
+				"eser": "Sırtlan Payı"
 			},
 			{
-				"eser": "Yağmur Kaçağı"
+				"eser": "Ulusal Kültür Savaşı"
 			},
 			{
 				"eser": "Yanlış Kadınlar Yanlış Erkekler"
@@ -854,7 +643,234 @@
 				"eser": "Yaraya Tuz Basmak"
 			},
 			{
+				"eser": "Yağmur Kaçağı"
+			},
+			{
 				"eser": "Zenciler Birbirine Benzemez"
+			}
+		],
+		"Aziz Nesin": [
+			{
+				"eser": "Aferin"
+			},
+			{
+				"eser": "Ah Biz Eşekler"
+			},
+			{
+				"eser": "Ah Biz Ödlek Aydınlar"
+			},
+			{
+				"eser": "Aziz Dededen Masallar"
+			},
+			{
+				"eser": "Azizname"
+			},
+			{
+				"eser": "Bay Düdük"
+			},
+			{
+				"eser": "Beş Kısa Oyun"
+			},
+			{
+				"eser": "Bir Koltuk Nasıl Devrilir"
+			},
+			{
+				"eser": "Bir Sürgünün Hatıraları"
+			},
+			{
+				"eser": "Bir Şey Yap Met"
+			},
+			{
+				"eser": "Biraz Gelir Misin"
+			},
+			{
+				"eser": "Biz Adam Olmayız"
+			},
+			{
+				"eser": "Böyle Gelmiş Böyle Gitmez"
+			},
+			{
+				"eser": "Bülbül Yuvası Evler"
+			},
+			{
+				"eser": "Büyük Grev"
+			},
+			{
+				"eser": "Canikom"
+			},
+			{
+				"eser": "Damda Deli Var"
+			},
+			{
+				"eser": "Deliler Boşandı"
+			},
+			{
+				"eser": "Duyduk Duymadık Demeyin"
+			},
+			{
+				"eser": "Düdükçülerle Fırçacıların Savaşı"
+			},
+			{
+				"eser": "Dünya Kazan Ben Kepçe"
+			},
+			{
+				"eser": "Erkek Sabahat"
+			},
+			{
+				"eser": "Fil Hamdi"
+			},
+			{
+				"eser": "Geriye Kalan"
+			},
+			{
+				"eser": "Gol Kralı Sait"
+			},
+			{
+				"eser": "Gözüne Gözlük"
+			},
+			{
+				"eser": "Gıdıgıdı"
+			},
+			{
+				"eser": "Hadi Öldürsene"
+			},
+			{
+				"eser": "Hangi Parti Kazanacak"
+			},
+			{
+				"eser": "Havadan Sudan"
+			},
+			{
+				"eser": "Hayvan Deyip Geçme"
+			},
+			{
+				"eser": "Hoptirnam"
+			},
+			{
+				"eser": "Hoşçakalın"
+			},
+			{
+				"eser": "İnsanlar Konuşa Konuşa"
+			},
+			{
+				"eser": "İt Kuyruğu"
+			},
+			{
+				"eser": "Kadın Olan Erkekler"
+			},
+			{
+				"eser": "Kalpazanlık Bile Yapılamıyor"
+			},
+			{
+				"eser": "Kazan Töreni"
+			},
+			{
+				"eser": "Kendini Yakalamak"
+			},
+			{
+				"eser": "Koltuk"
+			},
+			{
+				"eser": "Korkudan Korkmak"
+			},
+			{
+				"eser": "Kördöğüşü"
+			},
+			{
+				"eser": "Mahallenin Kısmeti"
+			},
+			{
+				"eser": "Mahmut İle Nigar"
+			},
+			{
+				"eser": "Maçinli Kız İçin Ev"
+			},
+			{
+				"eser": "Memleketin Birinde"
+			},
+			{
+				"eser": "Merhaba"
+			},
+			{
+				"eser": "Nah Kalkınırsın"
+			},
+			{
+				"eser": "Nazik Alet"
+			},
+			{
+				"eser": "Nutuk Makinası"
+			},
+			{
+				"eser": "Poliste"
+			},
+			{
+				"eser": "Rüyalarım Ziyan Olmasın"
+			},
+			{
+				"eser": "Rıfat Bey Neden Kaşınıyor"
+			},
+			{
+				"eser": "Salkım Salkım Asılacak Adamlar"
+			},
+			{
+				"eser": "Sivas Acısı"
+			},
+			{
+				"eser": "Sondan Başa"
+			},
+			{
+				"eser": "Suçlanana Ve Aklanan Yazılar"
+			},
+			{
+				"eser": "Tatlı Betüş"
+			},
+			{
+				"eser": "Tek Yol"
+			},
+			{
+				"eser": "Toros Canavarı"
+			},
+			{
+				"eser": "Tut Elimden Rovni"
+			},
+			{
+				"eser": "Uyusana Tosunum"
+			},
+			{
+				"eser": "Vatan Sağolsun"
+			},
+			{
+				"eser": "Yaşar Ne Yaşar Ne Yaşamaz"
+			},
+			{
+				"eser": "Yaşasın Memleket"
+			},
+			{
+				"eser": "Yedek Parça"
+			},
+			{
+				"eser": "Yeşil Renkli Namus Gazı"
+			},
+			{
+				"eser": "Yokuşun Başı"
+			},
+			{
+				"eser": "Yüz Liraya Bir Deli"
+			},
+			{
+				"eser": "Zübük"
+			},
+			{
+				"eser": "Çiçu"
+			},
+			{
+				"eser": "Çuvala Doldurulmuş Kediler"
+			},
+			{
+				"eser": "Ölmüş Eşek"
+			},
+			{
+				"eser": "Şimdiki Çocuklar Harika"
 			}
 		],
 		"B. Kemal Çağlar": [
@@ -865,9 +881,6 @@
 				"eser": "Burada Bir Kalp Çarpıyor"
 			},
 			{
-				"eser": "Çoban"
-			},
-			{
 				"eser": "Deniz Abdal"
 			},
 			{
@@ -875,6 +888,9 @@
 			},
 			{
 				"eser": "Son Şiirleri"
+			},
+			{
+				"eser": "Çoban"
 			}
 		],
 		"B. Rahmi Eyüpoğlu": [
@@ -909,13 +925,13 @@
 				"eser": "Tuz"
 			},
 			{
-				"eser": "Üçü Birden"
-			},
-			{
 				"eser": "Yaradana Mektuplar"
 			},
 			{
 				"eser": "Yaşadım"
+			},
+			{
+				"eser": "Üçü Birden"
 			}
 		],
 		"Bahattin Özkişi": [
@@ -944,9 +960,6 @@
 			},
 			{
 				"eser": "Bile \/ Yazdı"
-			},
-			{
-				"eser": "Çevre"
 			},
 			{
 				"eser": "Dar Çağ"
@@ -985,9 +998,6 @@
 				"eser": "Söyleriz"
 			},
 			{
-				"eser": "Üç Turunçlar"
-			},
-			{
 				"eser": "Yaz Dönemi"
 			},
 			{
@@ -995,6 +1005,12 @@
 			},
 			{
 				"eser": "Zebra"
+			},
+			{
+				"eser": "Çevre"
+			},
+			{
+				"eser": "Üç Turunçlar"
 			}
 		],
 		"Bekir Yıldız": [
@@ -1029,10 +1045,10 @@
 				"eser": "İnsan Posası"
 			},
 			{
-				"eser": "Kaçakçı Şahan"
+				"eser": "Kara Vagon"
 			},
 			{
-				"eser": "Kara Vagon"
+				"eser": "Kaçakçı Şahan"
 			},
 			{
 				"eser": "Olumsuz Kavak"
@@ -1058,13 +1074,13 @@
 				"eser": "Atatürkçü Olmak"
 			},
 			{
+				"eser": "Balım Kız Dalım Oğlum"
+			},
+			{
 				"eser": "Bağbozumu Sofrası"
 			},
 			{
 				"eser": "Bağımsızlık Gülü"
-			},
-			{
-				"eser": "Balım Kız Dalım Oğlum"
 			},
 			{
 				"eser": "Bir Çocuk Bahçesinde"
@@ -1138,10 +1154,10 @@
 				"eser": "Rüya İçinde Rüya"
 			},
 			{
-				"eser": "Sınıf Arkadaşları"
+				"eser": "Sokak"
 			},
 			{
-				"eser": "Sokak"
+				"eser": "Sınıf Arkadaşları"
 			},
 			{
 				"eser": "Tersine Akan Nehir"
@@ -1155,10 +1171,15 @@
 				"eser": "Otuz Beş Yaş"
 			},
 			{
-				"eser": "Ömrümde Sükut"
+				"eser": "Ziyaya Mektuplar"
 			},
 			{
-				"eser": "Ziyaya Mektuplar"
+				"eser": "Ömrümde Sükut"
+			}
+		],
+		"C. Zarifoğlu": [
+			{
+				"eser": "Yürek Dede İle Padişah"
 			}
 		],
 		"C. Şakir Kabaağaçlı": [
@@ -1176,9 +1197,6 @@
 			},
 			{
 				"eser": "Anadolu’nun Sesi"
-			},
-			{
-				"eser": "Çiçeklerin Düğümü"
 			},
 			{
 				"eser": "Deniz Gurbetçileri"
@@ -1220,9 +1238,6 @@
 				"eser": "Merhaba Anadolu"
 			},
 			{
-				"eser": "Ötelerin Çocuğu"
-			},
-			{
 				"eser": "Parmak Damgası"
 			},
 			{
@@ -1236,11 +1251,12 @@
 			},
 			{
 				"eser": "Yol Ver Deniz"
-			}
-		],
-		"C. Zarifoğlu": [
+			},
 			{
-				"eser": "Yürek Dede İle Padişah"
+				"eser": "Çiçeklerin Düğümü"
+			},
+			{
+				"eser": "Ötelerin Çocuğu"
 			}
 		],
 		"Cahit Külebi": [
@@ -1260,16 +1276,10 @@
 				"eser": "Rüzgar"
 			},
 			{
-				"eser": "Sıkıntı Ve Umut"
-			},
-			{
 				"eser": "Süt"
 			},
 			{
-				"eser": "Şiir Her Zaman"
-			},
-			{
-				"eser": "Şiirler"
+				"eser": "Sıkıntı Ve Umut"
 			},
 			{
 				"eser": "Türk Mavisi"
@@ -1279,6 +1289,12 @@
 			},
 			{
 				"eser": "Yeşeren Otlar"
+			},
+			{
+				"eser": "Şiir Her Zaman"
+			},
+			{
+				"eser": "Şiirler"
 			}
 		],
 		"Cahit Uçuk": [
@@ -1401,9 +1417,6 @@
 				"eser": "Sıcak Nal"
 			},
 			{
-				"eser": "Şapkam Dolu Çiçekle"
-			},
-			{
 				"eser": "Toplu Yazılar"
 			},
 			{
@@ -1411,6 +1424,9 @@
 			},
 			{
 				"eser": "Üvercinka"
+			},
+			{
+				"eser": "Şapkam Dolu Çiçekle"
 			}
 		],
 		"Cemil Meriç": [
@@ -1439,10 +1455,10 @@
 				"eser": "İlk Sosyolog"
 			},
 			{
-				"eser": "Kırk Ambar"
+				"eser": "Kültürden İrfana"
 			},
 			{
-				"eser": "Kültürden İrfana"
+				"eser": "Kırk Ambar"
 			},
 			{
 				"eser": "Mağaradakiler"
@@ -1464,13 +1480,13 @@
 		],
 		"E. Cem Günay": [
 			{
-				"eser": "Açıl Sofram Açıl"
-			},
-			{
 				"eser": "Akıl Kutusu"
 			},
 			{
 				"eser": "Az Gittim Uz Gittim"
+			},
+			{
+				"eser": "Açıl Sofram Açıl"
 			},
 			{
 				"eser": "En Güzel Türk Masalları"
@@ -1505,9 +1521,6 @@
 				"eser": "Bakışsız Bir Kedi Kara"
 			},
 			{
-				"eser": "Çok Eski Adıyladır"
-			},
-			{
 				"eser": "Kınar Hanımın Denizleri"
 			},
 			{
@@ -1521,6 +1534,9 @@
 			},
 			{
 				"eser": "Zambaklı Padişah"
+			},
+			{
+				"eser": "Çok Eski Adıyladır"
 			}
 		],
 		"Edip Cansever": [
@@ -1529,9 +1545,6 @@
 			},
 			{
 				"eser": "Bezik Oynayan Kadınlar"
-			},
-			{
-				"eser": "Çağrılamayan Yakup"
 			},
 			{
 				"eser": "Gül Dönüyor Avucumda"
@@ -1561,9 +1574,6 @@
 				"eser": "Sonrası Kalır"
 			},
 			{
-				"eser": "Şairin Seyir Defteri"
-			},
-			{
 				"eser": "Tragedyalar"
 			},
 			{
@@ -1574,6 +1584,12 @@
 			},
 			{
 				"eser": "Yerçekimli Karanfil"
+			},
+			{
+				"eser": "Çağrılamayan Yakup"
+			},
+			{
+				"eser": "Şairin Seyir Defteri"
 			}
 		],
 		"F. Fazıl Tülbentçi": [
@@ -1593,7 +1609,7 @@
 				"eser": "Cumhuriyet Nasıl Kuruldu"
 			},
 			{
-				"eser": "Geçmişte Bugün."
+				"eser": "Geçmişte Bugün"
 			},
 			{
 				"eser": "Hurrem Sultan"
@@ -1620,12 +1636,6 @@
 				"eser": "Sultanların Aşkı"
 			},
 			{
-				"eser": "Şah İsmail"
-			},
-			{
-				"eser": "Şanlı Kadırgalar"
-			},
-			{
 				"eser": "Tarihe Şan Veren Türk"
 			},
 			{
@@ -1636,52 +1646,23 @@
 			},
 			{
 				"eser": "Yavuz Sultan Selim Ağlıyor"
+			},
+			{
+				"eser": "Şah İsmail"
+			},
+			{
+				"eser": "Şanlı Kadırgalar"
 			}
 		],
 		"F. Hüsnü Dağlarca": [
 			{
-				"eser": "Çanakkale Destanı"
-			},
-			{
-				"eser": "Çocuk Ve Allah"
-			},
-			{
-				"eser": "Gazi Mustafa Kemal Atatürk"
-			},
-			{
-				"eser": "Kınalı Kuzu Ağıdı"
-			},
-			{
-				"eser": "Üç Şehitler Destanı"
-			},
-			{
-				"eser": "Yedi Mehmetler"
-			},
-			{
-				"eser": "Çakırın Destanı"
+				"eser": "19 Mayıs Destanı"
 			},
 			{
 				"eser": "Anıtkabir"
 			},
 			{
-				"eser": "Delice Böcek"
-			},
-			{
-				"eser": "Dışarıdan Gazel"
-			},
-			{
-				"eser": "Dildeki Bilgisayar"
-			},
-			{
-				"eser": "Havaya Çizilen Dünya"
-			},
-			{
-				"eser": "Hiroşima"
-			}
-		],
-		"F. Nafiz Çamlıbel": [
-			{
-				"eser": "Akın"
+				"eser": "Arka Üstü"
 			},
 			{
 				"eser": "Asu"
@@ -1690,76 +1671,127 @@
 				"eser": "Aylam"
 			},
 			{
+				"eser": "Aç Yazı"
+			},
+			{
+				"eser": "Açıl Susam Açıl"
+			},
+			{
+				"eser": "Balinayla Mandalina"
+			},
+			{
 				"eser": "Batı Acısı"
 			},
 			{
-				"eser": "Canavar"
+				"eser": "Bağımsızlık Savaşı-30 Ağustos"
+			},
+			{
+				"eser": "Bağımsızlık Savaşı-İzmir Yollarında"
+			},
+			{
+				"eser": "Bağımsızlık Savaşı-Sakarya Kıyıları"
 			},
 			{
 				"eser": "Cezayir Türküsü"
 			},
 			{
-				"eser": "Çıplak"
+				"eser": "Cinoğlan"
 			},
 			{
-				"eser": "Çoban Çeşmesi"
+				"eser": "Daha"
 			},
 			{
-				"eser": "Çukurova Koçaklaması"
+				"eser": "Delice Böcek"
 			},
 			{
-				"eser": "Dinle Neyden"
+				"eser": "Dildeki Bilgisayar"
 			},
 			{
-				"eser": "Gönülden Gönüle"
+				"eser": "Dişiboy"
 			},
 			{
-				"eser": "Han Duvarları"
+				"eser": "Dışardan Gazel"
+			},
+			{
+				"eser": "Gazi Mustafa Kemal Atatürk"
+			},
+			{
+				"eser": "Göz Masalı"
+			},
+			{
+				"eser": "Güneş Doğduran"
+			},
+			{
+				"eser": "Haliç"
+			},
+			{
+				"eser": "Havaya Çizilen Dünya"
 			},
 			{
 				"eser": "Haydi"
 			},
 			{
+				"eser": "Hin ile Hincik"
+			},
+			{
+				"eser": "Hiroşima"
+			},
+			{
 				"eser": "Hollandalı Dörtlükler"
 			},
 			{
-				"eser": "Hoo’lar"
+				"eser": "Hoo'lar"
 			},
 			{
 				"eser": "Horoz"
 			},
 			{
-				"eser": "İlk Yapıtta 50 Yıl Sonrakiler"
+				"eser": "İlk Yapıtla 50 Yıl Sonrakiler"
 			},
 			{
-				"eser": "İstanbul-Fetih Destanı"
+				"eser": "İstanbul- Fetih Destanı"
+			},
+			{
+				"eser": "İstiklâl Savaşı-İnönüler"
+			},
+			{
+				"eser": "İstiklâl Savaşı-Samsun'dan Ankara'ya"
+			},
+			{
+				"eser": "İçimdeki Şiir Hayvanı"
 			},
 			{
 				"eser": "Kazmalama"
 			},
 			{
-				"eser": "Kübilay Destanı"
+				"eser": "Koşan Ayılar Ülkesi"
+			},
+			{
+				"eser": "Kubilay Destanı"
+			},
+			{
+				"eser": "Kuş Ayak"
+			},
+			{
+				"eser": "Kınalı Kuzu Ağıdı"
 			},
 			{
 				"eser": "Malazgirt Ululaması"
 			},
 			{
-				"eser": "Mevlana’da Olmak"
+				"eser": "Mustafa Kemal'in Kağnısı"
 			},
 			{
 				"eser": "Nötron Bombası"
 			},
 			{
-				"eser": "Özgürlük Alanı"
-			},
-			{
-				"eser": "Samsun’dan Ankara’ya"
-			},
-			{
 				"eser": "Sivaslı Karınca"
 			},
 			{
-				"eser": "Taş Devri"
+				"eser": "Takma Yaşamalar Çağı"
+			},
+			{
+				"eser": "Taşdevri"
 			},
 			{
 				"eser": "Toprak Ana"
@@ -1768,28 +1800,147 @@
 				"eser": "Türk Olmak"
 			},
 			{
-				"eser": "Uzaklarda Giyinmek"
-			},
-			{
-				"eser": "Vietnam Körü"
+				"eser": "Uzaklarla Giyinmek"
 			},
 			{
 				"eser": "Vietnam Savaşımız"
 			},
 			{
-				"eser": "Yayla Kartalı"
+				"eser": "Yanık Çocuklar Koçaklaması"
+			},
+			{
+				"eser": "Yaramaz Sözcükler"
+			},
+			{
+				"eser": "Yavaşlayan Ömür"
+			},
+			{
+				"eser": "Yazıları Seven ayı"
+			},
+			{
+				"eser": "Yedi Memetler"
 			},
 			{
 				"eser": "Yeryağ"
 			},
 			{
+				"eser": "Yeryüzü Çocukları"
+			},
+			{
+				"eser": "Yunus Emre'de Olmak"
+			},
+			{
+				"eser": "Çakırın Destanı"
+			},
+			{
+				"eser": "Çanakkale Destanı"
+			},
+			{
+				"eser": "Çocuk ve Allah"
+			},
+			{
+				"eser": "Çukurova Koçaklaması"
+			},
+			{
+				"eser": "Çıplak"
+			},
+			{
+				"eser": "Özgürlük Alanı"
+			},
+			{
+				"eser": "Üç Şehitler Destanı"
+			},
+			{
+				"eser": "Şeker Yiyen Resimler"
+			}
+		],
+		"F. Nafiz Çamlıbel": [
+			{
+				"eser": "Akarsu"
+			},
+			{
+				"eser": "Akın"
+			},
+			{
+				"eser": "Akıncı Türküleri"
+			},
+			{
+				"eser": "Ateş"
+			},
+			{
+				"eser": "Bir Demette Beş Çiçek"
+			},
+			{
+				"eser": "Bir Ömür Böyle Geçti"
+			},
+			{
+				"eser": "Boğaziçi Şarkısı"
+			},
+			{
+				"eser": "Canavar"
+			},
+			{
+				"eser": "Dev Aynası"
+			},
+			{
+				"eser": "Dinle Neyden"
+			},
+			{
+				"eser": "Elimle Seçtiklerim"
+			},
+			{
+				"eser": "Gönülden Gönüle"
+			},
+			{
+				"eser": "Han Duvarları"
+			},
+			{
+				"eser": "Heyecan ve Sükûn"
+			},
+			{
+				"eser": "İlk Göz Ağrısı"
+			},
+			{
+				"eser": "Kahraman"
+			},
+			{
+				"eser": "Kanbur"
+			},
+			{
+				"eser": "Numaralar"
+			},
+			{
+				"eser": "Sevk-i Tabîî"
+			},
+			{
+				"eser": "Suda Halkalar"
+			},
+			{
+				"eser": "Tatlı Sert"
+			},
+			{
+				"eser": "Yangın"
+			},
+			{
+				"eser": "Yayla Kartalı"
+			},
+			{
 				"eser": "Yıldız Yağmuru"
 			},
 			{
-				"eser": "Yunus Emre’de Olmak"
+				"eser": "Zafer Türküsü"
 			},
 			{
 				"eser": "Zindan Duvarları"
+			},
+			{
+				"eser": "Çoban Çeşmesi"
+			},
+			{
+				"eser": "Özyurt"
+			},
+			{
+				"eser": "Şarkın Sultanları"
 			}
 		],
 		"F. Rıfkı Atay": [
@@ -1813,9 +1964,6 @@
 			},
 			{
 				"eser": "Bizim Akdeniz"
-			},
-			{
-				"eser": "Çankaya"
 			},
 			{
 				"eser": "Denizaşırı"
@@ -1846,6 +1994,9 @@
 			},
 			{
 				"eser": "Zeytindağı"
+			},
+			{
+				"eser": "Çankaya"
 			}
 		],
 		"Faik Baysal": [
@@ -1915,7 +2066,7 @@
 				"eser": "Barış Çöreği"
 			},
 			{
-				"eser": "Bir Uzun Yol."
+				"eser": "Bir Uzun Yol"
 			},
 			{
 				"eser": "Bizim İnce Kızlar"
@@ -1925,9 +2076,6 @@
 			},
 			{
 				"eser": "Cüce Muhammet"
-			},
-			{
-				"eser": "Çilli"
 			},
 			{
 				"eser": "Dikenli Tel"
@@ -1987,13 +2135,10 @@
 				"eser": "Sınırdaki Ölü"
 			},
 			{
-				"eser": "Şamaroğlanları"
+				"eser": "Topal Arkadaş"
 			},
 			{
 				"eser": "Tırpan"
-			},
-			{
-				"eser": "Topal Arkadaş"
 			},
 			{
 				"eser": "Yandım Ali"
@@ -2005,10 +2150,16 @@
 				"eser": "Yayla"
 			},
 			{
+				"eser": "Yüksek Fırınlar"
+			},
+			{
 				"eser": "Yılanların Öcü"
 			},
 			{
-				"eser": "Yüksek Fırınlar"
+				"eser": "Çilli"
+			},
+			{
+				"eser": "Şamaroğlanları"
 			}
 		],
 		"Ferit Edgü": [
@@ -2028,9 +2179,6 @@
 				"eser": "Bozgun"
 			},
 			{
-				"eser": "Çığlık"
-			},
-			{
 				"eser": "Eylülün Gölgesinde Bir Yazdı"
 			},
 			{
@@ -2043,13 +2191,19 @@
 				"eser": "O"
 			},
 			{
-				"eser": "Şimdi Saat Kaç"
+				"eser": "Yazmak Eylemi"
 			},
 			{
-				"eser": "Yazmak Eylemi"
+				"eser": "Çığlık"
+			},
+			{
+				"eser": "Şimdi Saat Kaç"
 			}
 		],
 		"Füruzan": [
+			{
+				"eser": "47’liler"
+			},
 			{
 				"eser": "Balkan Yolcusu"
 			},
@@ -2057,16 +2211,10 @@
 				"eser": "Benim Sinemalarım"
 			},
 			{
-				"eser": "47’liler"
-			},
-			{
-				"eser": "Yeni Konuklar"
+				"eser": "Berlin’in Nar Çiçeği"
 			},
 			{
 				"eser": "Ev Sahipleri"
-			},
-			{
-				"eser": "Redife’ye Güzelleme"
 			},
 			{
 				"eser": "Gecenin Öteki Yüzü"
@@ -2075,36 +2223,33 @@
 				"eser": "Gül Mevsimidir"
 			},
 			{
-				"eser": "Berlin’in Nar Çiçeği"
-			},
-			{
-				"eser": "Lodoslar Kenti"
-			},
-			{
 				"eser": "İşte Bizim Rumeli"
-			},
-			{
-				"eser": "Parasız Yatılı"
 			},
 			{
 				"eser": "Kuşatma"
 			},
 			{
 				"eser": "Kırk Yediler"
+			},
+			{
+				"eser": "Lodoslar Kenti"
+			},
+			{
+				"eser": "Parasız Yatılı"
+			},
+			{
+				"eser": "Redife’ye Güzelleme"
+			},
+			{
+				"eser": "Yeni Konuklar"
 			}
 		],
 		"H. Edip Adıvar": [
-			{
-				"eser": "Türk’ün Ateşle İmtihanı"
-			},
 			{
 				"eser": "Akile Hanım Sokağı"
 			},
 			{
 				"eser": "Ateşten Gömlek"
-			},
-			{
-				"eser": "Çaresaz"
 			},
 			{
 				"eser": "Dağa Çıkan Kurt"
@@ -2161,6 +2306,9 @@
 				"eser": "Tatarcık"
 			},
 			{
+				"eser": "Türk’ün Ateşle İmtihanı"
+			},
+			{
 				"eser": "Vurun Kahpeye"
 			},
 			{
@@ -2171,6 +2319,9 @@
 			},
 			{
 				"eser": "Zeyno’nun Oğlu"
+			},
+			{
+				"eser": "Çaresaz"
 			}
 		],
 		"H. Fahri Ozansoy": [
@@ -2211,24 +2362,24 @@
 				"eser": "İlk Şair"
 			},
 			{
-				"eser": "Sönen Kandiller"
+				"eser": "Sonsuz Gecelerin Ötesinde"
 			},
 			{
 				"eser": "Sulara Giden Köprü"
 			},
 			{
-				"eser": "Zakkum"
+				"eser": "Sönen Kandiller"
 			},
 			{
-				"eser": "Sonsuz Gecelerin Ötesinde"
+				"eser": "Zakkum"
 			}
 		],
 		"H. Nusret Zorlutuna": [
 			{
-				"eser": "Aşk Ve Zafer"
+				"eser": "Aydınlık Kapı"
 			},
 			{
-				"eser": "Aydınlık Kapı"
+				"eser": "Aşk Ve Zafer"
 			},
 			{
 				"eser": "Beyaz Selvi"
@@ -2258,20 +2409,12 @@
 				"eser": "Yurdumun Dört Bucağı"
 			}
 		],
-		"H. Suphi Tanrıöver": [
-			{
-				"eser": "Dağ Yolu"
-			},
-			{
-				"eser": "Günebakan"
-			}
-		],
 		"H. Ziya Uşaklıgil": [
 			{
-				"eser": "Aşka Dair"
+				"eser": "Aşk-ı Memnu"
 			},
 			{
-				"eser": "Aşk-ı Memnu"
+				"eser": "Aşka Dair"
 			},
 			{
 				"eser": "Bir Ölünün Defteri"
@@ -2330,22 +2473,19 @@
 				"eser": "Astronot Niyazi"
 			},
 			{
-				"eser": "Aşk-U Sevda"
-			},
-			{
 				"eser": "Ay Işığında Çalışkur"
 			},
 			{
 				"eser": "Ayışığında Şamata"
 			},
 			{
+				"eser": "Aşk-U Sevda"
+			},
+			{
 				"eser": "Berlin Mektupları"
 			},
 			{
 				"eser": "Bu Şehr-İstanbul Ki"
-			},
-			{
-				"eser": "Çok Güzelsin Gitme Dur"
 			},
 			{
 				"eser": "Dev Aynası"
@@ -2384,10 +2524,10 @@
 				"eser": "Keşanlı Ali Destanı"
 			},
 			{
-				"eser": "Kızıl Saçlı Amazon"
+				"eser": "Koyma Akıl Oyna Akıl"
 			},
 			{
-				"eser": "Koyma Akıl Oyna Akıl"
+				"eser": "Kızıl Saçlı Amazon"
 			},
 			{
 				"eser": "Lütfen Dokunmayın"
@@ -2396,16 +2536,10 @@
 				"eser": "On İkiye Bir Var"
 			},
 			{
-				"eser": "Önce İnsan Olmak"
-			},
-			{
 				"eser": "Sancho’nun Sabah Yürüyüşü"
 			},
 			{
 				"eser": "Sersem Kocanın Kurnaz Karısı"
-			},
-			{
-				"eser": "Şişhane’ye Yağmur Yağıyordu"
 			},
 			{
 				"eser": "Vatan Kurtaran Şaban"
@@ -2417,13 +2551,22 @@
 				"eser": "Yar Bana Bir Eğlence"
 			},
 			{
-				"eser": "Yaşasın Demokrasi"
-			},
-			{
 				"eser": "Yaz Boz Tahtası"
 			},
 			{
+				"eser": "Yaşasın Demokrasi"
+			},
+			{
 				"eser": "Zilli Zarife"
+			},
+			{
+				"eser": "Çok Güzelsin Gitme Dur"
+			},
+			{
+				"eser": "Önce İnsan Olmak"
+			},
+			{
+				"eser": "Şişhane’ye Yağmur Yağıyordu"
 			}
 		],
 		"Hasan Ali Yücel": [
@@ -2449,13 +2592,13 @@
 				"eser": "Hürriyete Doğru"
 			},
 			{
-				"eser": "İçten Dışa"
-			},
-			{
 				"eser": "İngiltere Mektupları"
 			},
 			{
 				"eser": "İyi Vatandaş İyi İnsan"
+			},
+			{
+				"eser": "İçten Dışa"
 			},
 			{
 				"eser": "Kıbrıs Mektupları"
@@ -2474,14 +2617,6 @@
 			},
 			{
 				"eser": "Türkiye’de Ortaöğretim"
-			}
-		],
-		"İ. Alaattin Gövsa": [
-			{
-				"eser": "Çanakkale İzleri"
-			},
-			{
-				"eser": "Güftü-Gû"
 			}
 		],
 		"İ. Zeki Burdurlu": [
@@ -2513,16 +2648,16 @@
 				"eser": "Minnacık Ada"
 			},
 			{
-				"eser": "Öğretmen Şairler Ant."
-			},
-			{
-				"eser": "Şiirimizde Öğretmen"
+				"eser": "Toprak İnsanları"
 			},
 			{
 				"eser": "Toprağın İçindeki Toprak"
 			},
 			{
-				"eser": "Toprak İnsanları"
+				"eser": "Öğretmen Şairler Ant."
+			},
+			{
+				"eser": "Şiirimizde Öğretmen"
 			}
 		],
 		"İbrahim Örs": [
@@ -2591,10 +2726,10 @@
 				"eser": "Irgatların Öfkesi"
 			},
 			{
-				"eser": "Kölelik Dönemeci"
+				"eser": "Kurbağa Çifliği"
 			},
 			{
-				"eser": "Kurbağa Çifliği"
+				"eser": "Kölelik Dönemeci"
 			},
 			{
 				"eser": "Memo"
@@ -2606,9 +2741,6 @@
 				"eser": "Pembe Kurt"
 			},
 			{
-				"eser": "Üç Buutlu Hikayeler"
-			},
-			{
 				"eser": "Yeşil Gölge"
 			},
 			{
@@ -2616,6 +2748,9 @@
 			},
 			{
 				"eser": "Zühre Ninem"
+			},
+			{
+				"eser": "Üç Buutlu Hikayeler"
 			}
 		],
 		"Kemal Tahir": [
@@ -2653,10 +2788,10 @@
 				"eser": "Kelleci Mehmet"
 			},
 			{
-				"eser": "Köyün Kamburu"
+				"eser": "Kurt Kanunu"
 			},
 			{
-				"eser": "Kurt Kanunu"
+				"eser": "Köyün Kamburu"
 			},
 			{
 				"eser": "Namusçular"
@@ -2738,10 +2873,10 @@
 				"eser": "Türk’ün Şehnamesinden"
 			},
 			{
-				"eser": "Üç İstanbul"
+				"eser": "Yirmi Sekiz Kanun-ı Evvel"
 			},
 			{
-				"eser": "Yirmi Sekiz Kanun-ı Evvel"
+				"eser": "Üç İstanbul"
 			}
 		],
 		"M. Cevdet Anday": [
@@ -2764,10 +2899,10 @@
 				"eser": "Güneşte"
 			},
 			{
-				"eser": "İçerdekiler"
+				"eser": "İsa’nın Güncesi"
 			},
 			{
-				"eser": "İsa’nın Güncesi"
+				"eser": "İçerdekiler"
 			},
 			{
 				"eser": "Kolları Bağlı Odysseus"
@@ -2777,9 +2912,6 @@
 			},
 			{
 				"eser": "Mikado’nun Çöpleri"
-			},
-			{
-				"eser": "Ölümsüzlük Ardında Gılgamış"
 			},
 			{
 				"eser": "Rahatı Kaçan Ağaç"
@@ -2803,13 +2935,16 @@
 				"eser": "Telgrafname"
 			},
 			{
+				"eser": "Yan Yana"
+			},
+			{
 				"eser": "Yağmurlu Sokaka"
 			},
 			{
 				"eser": "Yağmurun Altında"
 			},
 			{
-				"eser": "Yan Yana"
+				"eser": "Ölümsüzlük Ardında Gılgamış"
 			}
 		],
 		"M. Şevket Esendal": [
@@ -2849,19 +2984,13 @@
 				"eser": "Aşk Yarışı"
 			},
 			{
-				"eser": "Bağrı Yanık Ömer"
-			},
-			{
 				"eser": "Bahçemde Bir Gül Açtı"
 			},
 			{
+				"eser": "Bağrı Yanık Ömer"
+			},
+			{
 				"eser": "Bir Kadın Geçti"
-			},
-			{
-				"eser": "Çoban Yıldızı"
-			},
-			{
-				"eser": "Çulluk"
 			},
 			{
 				"eser": "Erkek Güzeli"
@@ -2901,17 +3030,12 @@
 			},
 			{
 				"eser": "Yakut Yüzük"
-			}
-		],
-		"Mehmet Önder": [
-			{
-				"eser": "Köyün Bağrından"
 			},
 			{
-				"eser": "Mevsim Sonu"
+				"eser": "Çoban Yıldızı"
 			},
 			{
-				"eser": "Zafer Yolunda"
+				"eser": "Çulluk"
 			}
 		],
 		"Mehmet Seyda": [
@@ -2937,12 +3061,6 @@
 				"eser": "Cinsel Oyun"
 			},
 			{
-				"eser": "Çikolata"
-			},
-			{
-				"eser": "Çocukluk Yılları"
-			},
-			{
 				"eser": "Del’ali"
 			},
 			{
@@ -2955,10 +3073,10 @@
 				"eser": "Gerçek Dışı"
 			},
 			{
-				"eser": "İçe Dönük Ve Atak"
+				"eser": "İhtiyar Gençlik"
 			},
 			{
-				"eser": "İhtiyar Gençlik"
+				"eser": "İçe Dönük Ve Atak"
 			},
 			{
 				"eser": "Kör Şeytan"
@@ -2973,19 +3091,10 @@
 				"eser": "Oyuncakçı Dükkanı"
 			},
 			{
-				"eser": "Ölümsüz Dostluk"
-			},
-			{
 				"eser": "Sultan Döşeği"
 			},
 			{
 				"eser": "Süeda Hanımın Ortanca Kızı"
-			},
-			{
-				"eser": "Şehzadenin Başıdır"
-			},
-			{
-				"eser": "Şeytan Çekiçleri"
 			},
 			{
 				"eser": "Yanartaş"
@@ -2995,6 +3104,32 @@
 			},
 			{
 				"eser": "Zonguldak Hikayeleri"
+			},
+			{
+				"eser": "Çikolata"
+			},
+			{
+				"eser": "Çocukluk Yılları"
+			},
+			{
+				"eser": "Ölümsüz Dostluk"
+			},
+			{
+				"eser": "Şehzadenin Başıdır"
+			},
+			{
+				"eser": "Şeytan Çekiçleri"
+			}
+		],
+		"Mehmet Önder": [
+			{
+				"eser": "Köyün Bağrından"
+			},
+			{
+				"eser": "Mevsim Sonu"
+			},
+			{
+				"eser": "Zafer Yolunda"
 			}
 		],
 		"Muhsin Ertuğrul": [
@@ -3007,10 +3142,10 @@
 		],
 		"Mükerrem Kamil Su": [
 			{
-				"eser": "Ata’nın Romanı"
+				"eser": "Atatürk Bizimle"
 			},
 			{
-				"eser": "Atatürk Bizimle"
+				"eser": "Ata’nın Romanı"
 			},
 			{
 				"eser": "Ateşten Damla"
@@ -3032,9 +3167,6 @@
 			},
 			{
 				"eser": "Bu Kalp Duracak"
-			},
-			{
-				"eser": "Çırpınan Sular"
 			},
 			{
 				"eser": "Dinmez Ağrı"
@@ -3067,9 +3199,6 @@
 				"eser": "Olaylar Gemisi"
 			},
 			{
-				"eser": "Özlediğim Kadın"
-			},
-			{
 				"eser": "Sevgi Ve Istırabım"
 			},
 			{
@@ -3080,15 +3209,15 @@
 			},
 			{
 				"eser": "Uzaklaşan Yol"
+			},
+			{
+				"eser": "Çırpınan Sular"
+			},
+			{
+				"eser": "Özlediğim Kadın"
 			}
 		],
 		"N. Fazıl Kısakürek": [
-			{
-				"eser": "Bir Adam Yaratmak"
-			},
-			{
-				"eser": "Son Devrin Din Mazlumları"
-			},
 			{
 				"eser": "Abdülhamit Han"
 			},
@@ -3105,19 +3234,13 @@
 				"eser": "Ben Ve Ötesi"
 			},
 			{
+				"eser": "Bir Adam Yaratmak"
+			},
+			{
 				"eser": "Birkaç Tahlil"
 			},
 			{
 				"eser": "Cinnet Müstatili"
-			},
-			{
-				"eser": "Çerçeve"
-			},
-			{
-				"eser": "Çile"
-			},
-			{
-				"eser": "Çöle İnen Nur"
 			},
 			{
 				"eser": "Hitabe"
@@ -3138,9 +3261,6 @@
 				"eser": "Nam-ı Diğer Parmaksız Salih"
 			},
 			{
-				"eser": "Örümcek Ağı"
-			},
-			{
 				"eser": "Para"
 			},
 			{
@@ -3150,16 +3270,31 @@
 				"eser": "Satırbaşı"
 			},
 			{
-				"eser": "Sonsuzluk Kervanı"
+				"eser": "Son Devrin Din Mazlumları"
 			},
 			{
-				"eser": "Şiirlerim"
+				"eser": "Sonsuzluk Kervanı"
 			},
 			{
 				"eser": "Tohum"
 			},
 			{
 				"eser": "Yılanlı Kuyudan"
+			},
+			{
+				"eser": "Çerçeve"
+			},
+			{
+				"eser": "Çile"
+			},
+			{
+				"eser": "Çöle İnen Nur"
+			},
+			{
+				"eser": "Örümcek Ağı"
+			},
+			{
+				"eser": "Şiirlerim"
 			}
 		],
 		"N. Halil Onan": [
@@ -3167,10 +3302,10 @@
 				"eser": "Bir Yudum Daha"
 			},
 			{
-				"eser": "Çakıl Taşları"
+				"eser": "İşleyen Yara"
 			},
 			{
-				"eser": "İşleyen Yara"
+				"eser": "Çakıl Taşları"
 			}
 		],
 		"N. Sami Banarlı": [
@@ -3196,9 +3331,6 @@
 				"eser": "Resimli Türk Edebiyatı Tarihi"
 			},
 			{
-				"eser": "Şiir Ve Edebiyat Sohbetleri"
-			},
-			{
 				"eser": "Tarih Ve Tasavvuf Sohbetleri"
 			},
 			{
@@ -3212,6 +3344,9 @@
 			},
 			{
 				"eser": "Yahya Kemal’in Hatıraları"
+			},
+			{
+				"eser": "Şiir Ve Edebiyat Sohbetleri"
 			}
 		],
 		"Naki Tezel": [
@@ -3293,10 +3428,10 @@
 				"eser": "Son Şiirler"
 			},
 			{
-				"eser": "Yaşamak Güzel Şey Be Kardeşim"
+				"eser": "Yatar Bursa Kalesinde"
 			},
 			{
-				"eser": "Yatar Bursa Kalesinde"
+				"eser": "Yaşamak Güzel Şey Be Kardeşim"
 			},
 			{
 				"eser": "Yeşil Elmalar"
@@ -3310,16 +3445,16 @@
 				"eser": "Acı Tütün"
 			},
 			{
-				"eser": "Aşk Da Gezer"
-			},
-			{
-				"eser": "Aşk Duvarı"
-			},
-			{
 				"eser": "Ay Büyürken"
 			},
 			{
 				"eser": "Aylı Bıçak"
+			},
+			{
+				"eser": "Aşk Da Gezer"
+			},
+			{
+				"eser": "Aşk Duvarı"
 			},
 			{
 				"eser": "Bakanı Bekliyoruz"
@@ -3328,10 +3463,10 @@
 				"eser": "Boş Beşik"
 			},
 			{
-				"eser": "Değişik Gözle"
+				"eser": "Derya Gülü"
 			},
 			{
-				"eser": "Derya Gülü"
+				"eser": "Değişik Gözle"
 			},
 			{
 				"eser": "Dila Hanım"
@@ -3382,9 +3517,6 @@
 				"eser": "Susuz Yaz"
 			},
 			{
-				"eser": "Şiddet Ruhu"
-			},
-			{
 				"eser": "Tehlikeli Güvercin"
 			},
 			{
@@ -3397,16 +3529,10 @@
 				"eser": "Uzun Bir Gece"
 			},
 			{
-				"eser": "Üç Minik Serçem"
-			},
-			{
 				"eser": "Viran Dağlar"
 			},
 			{
 				"eser": "Vur Emri"
-			},
-			{
-				"eser": "Yağmurlar Ve Topraklar"
 			},
 			{
 				"eser": "Yakup’un Koyunları"
@@ -3416,6 +3542,9 @@
 			},
 			{
 				"eser": "Yaralı Geyik"
+			},
+			{
+				"eser": "Yağmurlar Ve Topraklar"
 			},
 			{
 				"eser": "Yeni Çıkan Şarkılar"
@@ -3428,6 +3557,12 @@
 			},
 			{
 				"eser": "Zorla İspanyol"
+			},
+			{
+				"eser": "Üç Minik Serçem"
+			},
+			{
+				"eser": "Şiddet Ruhu"
 			}
 		],
 		"Neyzen Tevfik": [
@@ -3446,13 +3581,10 @@
 				"eser": "Bir Kara Derin Kuyu"
 			},
 			{
-				"eser": "Boşlukta Mavi"
-			},
-			{
 				"eser": "Bozbulanık"
 			},
 			{
-				"eser": "Çın Sabahta"
+				"eser": "Boşlukta Mavi"
 			},
 			{
 				"eser": "Dumanaltı"
@@ -3480,6 +3612,9 @@
 			},
 			{
 				"eser": "Yandırma"
+			},
+			{
+				"eser": "Çın Sabahta"
 			}
 		],
 		"Nurullah Ataç": [
@@ -3488,12 +3623,6 @@
 			},
 			{
 				"eser": "Dergilerde"
-			},
-			{
-				"eser": "Prespero İle Caliban"
-			},
-			{
-				"eser": "Sözden Söze"
 			},
 			{
 				"eser": "Diyelim"
@@ -3511,16 +3640,224 @@
 				"eser": "Okuruma Mektuplar"
 			},
 			{
+				"eser": "Prespero İle Caliban"
+			},
+			{
 				"eser": "Söyleşiler"
 			},
 			{
 				"eser": "Söz Arasında"
+			},
+			{
+				"eser": "Sözden Söze"
+			}
+		],
+		"O. Rıfat Horozcu": [
+			{
+				"eser": "Atlar Ve Filler"
+			},
+			{
+				"eser": "Aşağı Yukarı"
+			},
+			{
+				"eser": "Aşk Ve Avarelik Üstüne Şiirler"
+			},
+			{
+				"eser": "Aşık Merdiveni"
+			},
+			{
+				"eser": "Bay Lear"
+			},
+			{
+				"eser": "Bir Kadının Penceresinden"
+			},
+			{
+				"eser": "Bir Çıgara İçimi"
+			},
+			{
+				"eser": "Birtakım İnsanlar"
+			},
+			{
+				"eser": "Danaburnu"
+			},
+			{
+				"eser": "Denize Doğru Konuşma"
+			},
+			{
+				"eser": "Dilsiz Ve Çıplak"
+			},
+			{
+				"eser": "Elifli"
+			},
+			{
+				"eser": "Eller Var Özgürlüğün"
+			},
+			{
+				"eser": "Gezeleme"
+			},
+			{
+				"eser": "İkilik"
+			},
+			{
+				"eser": "Kadınlar Arasında"
+			},
+			{
+				"eser": "Karga İle Tilki"
+			},
+			{
+				"eser": "Koca Bir Yaz"
+			},
+			{
+				"eser": "Oyun İçinde Oyun"
+			},
+			{
+				"eser": "Perçemli Sokak"
+			},
+			{
+				"eser": "Toplu Oyunlar"
+			},
+			{
+				"eser": "Yağmur Sıkıntısı"
+			},
+			{
+				"eser": "Yaşayıp Ölmek"
+			},
+			{
+				"eser": "Çil Horoz"
+			},
+			{
+				"eser": "Çobanıl Şiirler"
+			},
+			{
+				"eser": "Şiir Konuşması"
+			}
+		],
+		"O. Seyfi Orhon": [
+			{
+				"eser": "Asri Kerem"
+			},
+			{
+				"eser": "Dün Bugün Yarın"
+			},
+			{
+				"eser": "Düğün Gecesi"
+			},
+			{
+				"eser": "Fiskeler"
+			},
+			{
+				"eser": "Fırtına Ve Kar"
+			},
+			{
+				"eser": "Gençlere Açık Mektup"
+			},
+			{
+				"eser": "Gönülden Sesler"
+			},
+			{
+				"eser": "Hicivler"
+			},
+			{
+				"eser": "İşte Sevdiğim Dünya"
+			},
+			{
+				"eser": "Kervan"
+			},
+			{
+				"eser": "Kulaktan Kulağa"
+			},
+			{
+				"eser": "O. Beyaz Bir Kuştu"
+			},
+			{
+				"eser": "Peri Kızı"
+			},
+			{
+				"eser": "Çoban Hikayesi"
+			},
+			{
+				"eser": "Çocuk Adam"
+			}
+		],
+		"O. Veli Kanık": [
+			{
+				"eser": "Bindiğimiz Dal"
+			},
+			{
+				"eser": "Denize Doğru"
+			},
+			{
+				"eser": "Destan Gibi"
+			},
+			{
+				"eser": "Karşı"
+			},
+			{
+				"eser": "Nasrettin Hoca Hikayeleri"
+			},
+			{
+				"eser": "Nesir Yazıları"
+			},
+			{
+				"eser": "Sanat Ve Edebiyat Dünyamız"
+			},
+			{
+				"eser": "Vazgeçemediğim"
+			},
+			{
+				"eser": "Yenisi"
+			}
+		],
+		"O. Şaik Gökyay": [
+			{
+				"eser": "Birkaç Şiir-Poems"
+			},
+			{
+				"eser": "Dede Korkudun Kitabı"
+			},
+			{
+				"eser": "Destursuz Bağa Girenler"
+			}
+		],
+		"Orhan Hançerlioğlu": [
+			{
+				"eser": "Ali"
+			},
+			{
+				"eser": "Başlangıcından Bugüne Kadar Özgürlük Düşüncesi"
+			},
+			{
+				"eser": "Bordamıza Vuran Deniz"
+			},
+			{
+				"eser": "Büyük Balıklar"
+			},
+			{
+				"eser": "Ekilmemiş Topraklar"
+			},
+			{
+				"eser": "Erdem Açısından Düşünce Tarihi"
+			},
+			{
+				"eser": "İnsansız Şehir"
+			},
+			{
+				"eser": "Karanlık Dünya"
+			},
+			{
+				"eser": "Kutu Kutu İçinde"
+			},
+			{
+				"eser": "Kıvılcım"
+			},
+			{
+				"eser": "Oyun"
+			},
+			{
+				"eser": "Yedinci Gün"
 			}
 		],
 		"Orhan Kemal": [
-			{
-				"eser": "Bereketli Topraklar Üzerinde"
-			},
 			{
 				"eser": "Arka Sokak"
 			},
@@ -3540,13 +3877,13 @@
 				"eser": "Babil Kulesi"
 			},
 			{
+				"eser": "Bereketli Topraklar Üzerinde"
+			},
+			{
 				"eser": "Bir Filiz Vardı"
 			},
 			{
 				"eser": "Cemile"
-			},
-			{
-				"eser": "Çamaşırcının Kızı"
 			},
 			{
 				"eser": "Devlet Kuşu"
@@ -3600,9 +3937,6 @@
 				"eser": "Kardeş Payı"
 			},
 			{
-				"eser": "Kırmızı Küpeler"
-			},
-			{
 				"eser": "Kötü Yol"
 			},
 			{
@@ -3610,6 +3944,9 @@
 			},
 			{
 				"eser": "Küçükler Ve Büyükler"
+			},
+			{
+				"eser": "Kırmızı Küpeler"
 			},
 			{
 				"eser": "Mahalle Kavgası"
@@ -3627,9 +3964,6 @@
 				"eser": "Oyuncu Kadın"
 			},
 			{
-				"eser": "Önce Ekmek"
-			},
-			{
 				"eser": "Sarhoşlar"
 			},
 			{
@@ -3645,273 +3979,22 @@
 				"eser": "Tersine Dünya"
 			},
 			{
-				"eser": "Üç Kağıtçı"
+				"eser": "Vukuat Var"
 			},
 			{
-				"eser": "Vukuat Var"
+				"eser": "Yalancı Dünya"
 			},
 			{
 				"eser": "Yağmur Yüklü Bulutlar"
 			},
 			{
-				"eser": "Yalancı Dünya"
-			}
-		],
-		"O. Rıfat Horozcu": [
-			{
-				"eser": "Aşağı Yukarı"
-			},
-			{
-				"eser": "Aşık Merdiveni"
-			},
-			{
-				"eser": "Aşk Ve Avarelik Üstüne Şiirler"
-			},
-			{
-				"eser": "Atlar Ve Filler"
-			},
-			{
-				"eser": "Bay Lear"
-			},
-			{
-				"eser": "Bir Çıgara İçimi"
-			},
-			{
-				"eser": "Bir Kadının Penceresinden"
-			},
-			{
-				"eser": "Birtakım İnsanlar"
-			},
-			{
-				"eser": "Çil Horoz"
-			},
-			{
-				"eser": "Çobanıl Şiirler"
-			},
-			{
-				"eser": "Danaburnu"
-			},
-			{
-				"eser": "Denize Doğru Konuşma"
-			},
-			{
-				"eser": "Dilsiz Ve Çıplak"
-			},
-			{
-				"eser": "Elifli"
-			},
-			{
-				"eser": "Eller Var Özgürlüğün"
-			},
-			{
-				"eser": "Gezeleme"
-			},
-			{
-				"eser": "İkilik"
-			},
-			{
-				"eser": "Kadınlar Arasında"
-			},
-			{
-				"eser": "Karga İle Tilki"
-			},
-			{
-				"eser": "Koca Bir Yaz"
-			},
-			{
-				"eser": "Oyun İçinde Oyun"
-			},
-			{
-				"eser": "Perçemli Sokak"
-			},
-			{
-				"eser": "Şiir Konuşması"
-			},
-			{
-				"eser": "Toplu Oyunlar"
-			},
-			{
-				"eser": "Yağmur Sıkıntısı"
-			},
-			{
-				"eser": "Yaşayıp Ölmek"
-			}
-		],
-		"O. Seyfi Orhon": [
-			{
-				"eser": "Asri Kerem"
-			},
-			{
-				"eser": "Çoban Hikayesi"
-			},
-			{
-				"eser": "Çocuk Adam"
-			},
-			{
-				"eser": "Düğün Gecesi"
-			},
-			{
-				"eser": "Dün Bugün Yarın"
-			},
-			{
-				"eser": "Fırtına Ve Kar"
-			},
-			{
-				"eser": "Gençlere Açık Mektup"
-			},
-			{
-				"eser": "Gönülden Sesler"
-			},
-			{
-				"eser": "Hicivler"
-			},
-			{
-				"eser": "İşte Sevdiğim Dünya"
-			},
-			{
-				"eser": "Kervan"
-			},
-			{
-				"eser": "Kulaktan Kulağa"
-			},
-			{
-				"eser": "O. Beyaz Bir Kuştu"
-			},
-			{
-				"eser": "Peri Kızı"
-			},
-			{
-				"eser": "Fiskeler"
-			}
-		],
-		"O. Şaik Gökyay": [
-			{
-				"eser": "Birkaç Şiir-Poems"
-			},
-			{
-				"eser": "Dede Korkudun Kitabı"
-			},
-			{
-				"eser": "Destursuz Bağa Girenler"
-			}
-		],
-		"O. Veli Kanık": [
-			{
-				"eser": "Bindiğimiz Dal"
-			},
-			{
-				"eser": "Denize Doğru"
-			},
-			{
-				"eser": "Destan Gibi"
-			},
-			{
-				"eser": "Karşı"
-			},
-			{
-				"eser": "Nasrettin Hoca Hikayeleri"
-			},
-			{
-				"eser": "Nesir Yazıları"
-			},
-			{
-				"eser": "Sanat Ve Edebiyat Dünyamız"
-			},
-			{
-				"eser": "Vazgeçemediğim"
-			},
-			{
-				"eser": "Yenisi"
-			}
-		],
-		"Oğuz Atay": [
-			{
-				"eser": "Bir Bilim Adamının Romanı"
-			},
-			{
-				"eser": "Korkuyu Beklerken"
-			},
-			{
-				"eser": "Oyunlarla Yaşayanlar"
-			},
-			{
-				"eser": "Tehlikeli Oyunlar"
-			},
-			{
-				"eser": "Tutunamayanlar"
-			}
-		],
-		"Oğuz Tansel": [
-			{
-				"eser": "Al’Lı İle Fırfırı"
-			},
-			{
-				"eser": "Altı Kardeşler"
-			},
-			{
-				"eser": "Bektaşi Dedikleri"
-			},
-			{
-				"eser": "Çobanla Bey Kızı"
-			},
-			{
-				"eser": "Gözünü Sevdiğim"
-			},
-			{
-				"eser": "Konuşan Balıkla Yalnız Kız"
-			},
-			{
-				"eser": "Mavi Gelin"
-			},
-			{
-				"eser": "Sarıkız Yolu"
-			},
-			{
-				"eser": "Savrulmayı Bekleyen Harman"
-			},
-			{
-				"eser": "Üç Kızlar"
-			},
-			{
-				"eser": "Yedi Devler"
-			}
-		],
-		"Orhan Hançerlioğlu": [
-			{
-				"eser": "Ali"
-			},
-			{
-				"eser": "Başlangıcından Bugüne Kadar Özgürlük Düşüncesi"
-			},
-			{
-				"eser": "Bordamıza Vuran Deniz"
-			},
-			{
-				"eser": "Büyük Balıklar"
-			},
-			{
-				"eser": "Ekilmemiş Topraklar"
-			},
-			{
-				"eser": "Erdem Açısından Düşünce Tarihi"
-			},
-			{
-				"eser": "İnsansız Şehir"
-			},
-			{
-				"eser": "Karanlık Dünya"
-			},
-			{
-				"eser": "Kıvılcım"
-			},
-			{
-				"eser": "Kutu Kutu İçinde"
+				"eser": "Çamaşırcının Kızı"
 			},
 			{
-				"eser": "Oyun"
+				"eser": "Önce Ekmek"
 			},
 			{
-				"eser": "Yedinci Gün"
+				"eser": "Üç Kağıtçı"
 			}
 		],
 		"Orhan Pamuk": [
@@ -3937,10 +4020,10 @@
 				"eser": "Kara Kitap"
 			},
 			{
-				"eser": "Öteki Renkler"
+				"eser": "Sessiz Ev"
 			},
 			{
-				"eser": "Sessiz Ev"
+				"eser": "Öteki Renkler"
 			}
 		],
 		"Osman Atilla": [
@@ -3960,18 +4043,59 @@
 				"eser": "Sabahleyin"
 			},
 			{
-				"eser": "Türk Kahramanlık Şiileri Ant."
+				"eser": "Türk Kahramanlık Şiirleri Ant."
 			}
 		],
-		"Ö. Bedrettin Uşaklı": [
+		"Oğuz Atay": [
 			{
-				"eser": "Deniz Sarhoşları"
+				"eser": "Bir Bilim Adamının Romanı"
 			},
 			{
-				"eser": "Sarıkız Mermerleri"
+				"eser": "Korkuyu Beklerken"
 			},
 			{
-				"eser": "Yayla Dumanı"
+				"eser": "Oyunlarla Yaşayanlar"
+			},
+			{
+				"eser": "Tehlikeli Oyunlar"
+			},
+			{
+				"eser": "Tutunamayanlar"
+			}
+		],
+		"Oğuz Tansel": [
+			{
+				"eser": "Altı Kardeşler"
+			},
+			{
+				"eser": "Al’Lı İle Fırfırı"
+			},
+			{
+				"eser": "Bektaşi Dedikleri"
+			},
+			{
+				"eser": "Gözünü Sevdiğim"
+			},
+			{
+				"eser": "Konuşan Balıkla Yalnız Kız"
+			},
+			{
+				"eser": "Mavi Gelin"
+			},
+			{
+				"eser": "Sarıkız Yolu"
+			},
+			{
+				"eser": "Savrulmayı Bekleyen Harman"
+			},
+			{
+				"eser": "Yedi Devler"
+			},
+			{
+				"eser": "Çobanla Bey Kızı"
+			},
+			{
+				"eser": "Üç Kızlar"
 			}
 		],
 		"P. Naili Boratay": [
@@ -3989,9 +4113,6 @@
 			}
 		],
 		"Peyami Safa": [
-			{
-				"eser": "Matmazel Noralya’nın Koltuğu"
-			},
 			{
 				"eser": "Bir Akşamdı"
 			},
@@ -4026,6 +4147,9 @@
 				"eser": "Mahşer"
 			},
 			{
+				"eser": "Matmazel Noralya’nın Koltuğu"
+			},
+			{
 				"eser": "Millet Ve İnsan"
 			},
 			{
@@ -4049,10 +4173,10 @@
 				"eser": "Anadolu Notları"
 			},
 			{
-				"eser": "Bir Kadın Düşmanı"
+				"eser": "Balıkesir Muhasebecisi"
 			},
 			{
-				"eser": "Çalıkuşu"
+				"eser": "Bir Kadın Düşmanı"
 			},
 			{
 				"eser": "Dudaktan Kalbe"
@@ -4085,10 +4209,10 @@
 				"eser": "Kavak Yelleri"
 			},
 			{
-				"eser": "Kızılcık Dalları"
+				"eser": "Köy Hocası"
 			},
 			{
-				"eser": "Köy Hocası"
+				"eser": "Kızılcık Dalları"
 			},
 			{
 				"eser": "Miskinler Tekkesi"
@@ -4115,7 +4239,7 @@
 				"eser": "Yeşil Gece"
 			},
 			{
-				"eser": "Balıkesir Muhasebecisi"
+				"eser": "Çalıkuşu"
 			}
 		],
 		"R.Eşref Ünaydın": [
@@ -4189,13 +4313,13 @@
 		],
 		"Refik Erduran": [
 			{
-				"eser": "Açıl Susam Açıl"
-			},
-			{
 				"eser": "Aman Avcı"
 			},
 			{
 				"eser": "Ayı Masalı"
+			},
+			{
+				"eser": "Açıl Susam Açıl"
 			},
 			{
 				"eser": "Bir Kilo Namus"
@@ -4290,12 +4414,6 @@
 				"eser": "Bütün Şiirleri"
 			},
 			{
-				"eser": "Çalış Osman Çiftlik"
-			},
-			{
-				"eser": "Çatal Matal Kaç Çatal"
-			},
-			{
 				"eser": "Devam"
 			},
 			{
@@ -4308,10 +4426,10 @@
 				"eser": "Güvercinim Uyur Mu?"
 			},
 			{
-				"eser": "Hababam Sınıfı"
+				"eser": "Hababam Sınıfı Uyanıyor"
 			},
 			{
-				"eser": "Hababam Sınıfı Uyanıyor"
+				"eser": "Hababam Sınıfı"
 			},
 			{
 				"eser": "Karadeniz’in Kıyıcığında"
@@ -4329,19 +4447,16 @@
 				"eser": "Keş"
 			},
 			{
-				"eser": "Kırk Yıl Önce Kırk Yıl Sonra"
+				"eser": "Kulağımız Kirişte"
 			},
 			{
-				"eser": "Kulağımız Kirişte"
+				"eser": "Kırk Yıl Önce Kırk Yıl Sonra"
 			},
 			{
 				"eser": "Nerde O Eski Usturalar"
 			},
 			{
 				"eser": "Ocak Katın Alagöz"
-			},
-			{
-				"eser": "Öksüz Civciv"
 			},
 			{
 				"eser": "Palavra"
@@ -4356,16 +4471,13 @@
 				"eser": "Sarı Yazma"
 			},
 			{
-				"eser": "Sınıf"
-			},
-			{
 				"eser": "Soluk Soluğa"
 			},
 			{
 				"eser": "Sosyal Kadınlar Partisi"
 			},
 			{
-				"eser": "Şevket Ustanın Kedisi"
+				"eser": "Sınıf"
 			},
 			{
 				"eser": "Tuh Sana"
@@ -4374,19 +4486,31 @@
 				"eser": "Uzak Değil"
 			},
 			{
-				"eser": "Üsküdar’da Sabah Oldu"
-			},
-			{
 				"eser": "Yarenlik"
 			},
 			{
 				"eser": "Yaşadıkça"
 			},
 			{
+				"eser": "Yokuş Yukarı"
+			},
+			{
 				"eser": "Yıldız Karayel"
 			},
 			{
-				"eser": "Yokuş Yukarı"
+				"eser": "Çalış Osman Çiftlik"
+			},
+			{
+				"eser": "Çatal Matal Kaç Çatal"
+			},
+			{
+				"eser": "Öksüz Civciv"
+			},
+			{
+				"eser": "Üsküdar’da Sabah Oldu"
+			},
+			{
+				"eser": "Şevket Ustanın Kedisi"
 			}
 		],
 		"Rıza Tevfik Bölükbaşı": [
@@ -4415,31 +4539,16 @@
 		],
 		"S. Faik Abasıyanık": [
 			{
-				"eser": "Açık Hava Oteli"
+				"eser": "Alemdağ’da Var Bir Yılan"
 			},
 			{
 				"eser": "Az Şekerli"
 			},
 			{
+				"eser": "Açık Hava Oteli"
+			},
+			{
 				"eser": "Balıkçının Ölümü"
-			},
-			{
-				"eser": "Mahkeme Kapısı"
-			},
-			{
-				"eser": "Müthiş Bir Tren"
-			},
-			{
-				"eser": "Tüneldeki Çocuk"
-			},
-			{
-				"eser": "Yaşasın Edebiyat"
-			},
-			{
-				"eser": "Alemdağ’da Var Bir Yılan"
-			},
-			{
-				"eser": "Şimdi Sevişme Vakti"
 			},
 			{
 				"eser": "Havada Bulut"
@@ -4457,7 +4566,13 @@
 				"eser": "Mahalle Kahvesi"
 			},
 			{
+				"eser": "Mahkeme Kapısı"
+			},
+			{
 				"eser": "Medar-ı Maişet Motoru"
+			},
+			{
+				"eser": "Müthiş Bir Tren"
 			},
 			{
 				"eser": "Sarnıç"
@@ -4469,10 +4584,19 @@
 				"eser": "Son Kuşlar"
 			},
 			{
-				"eser": "Şahmeran"
+				"eser": "Tüneldeki Çocuk"
 			},
 			{
 				"eser": "Yaşamak Hırsı"
+			},
+			{
+				"eser": "Yaşasın Edebiyat"
+			},
+			{
+				"eser": "Şahmeran"
+			},
+			{
+				"eser": "Şimdi Sevişme Vakti"
 			}
 		],
 		"S. Kemal Yetkin": [
@@ -4507,10 +4631,10 @@
 				"eser": "Sanat Felsefesi"
 			},
 			{
-				"eser": "Şiir Üzerine Düşünceler"
+				"eser": "Yokuşa Doğru"
 			},
 			{
-				"eser": "Yokuşa Doğru"
+				"eser": "Şiir Üzerine Düşünceler"
 			}
 		],
 		"S. Kudret Aksal": [
@@ -4525,9 +4649,6 @@
 			},
 			{
 				"eser": "Bir Sabah Uyanmak"
-			},
-			{
-				"eser": "Çizgi"
 			},
 			{
 				"eser": "Duru Gök"
@@ -4551,173 +4672,19 @@
 				"eser": "Sonsuzluk Kitabevi"
 			},
 			{
-				"eser": "Şakacı"
-			},
-			{
-				"eser": "Şarkılı Kahve"
-			},
-			{
 				"eser": "Tersine Dönen Şemsiye"
 			},
 			{
 				"eser": "Yaralı Hayvanlar"
-			}
-		],
-		"Süleyman Nazif": [
-			{
-				"eser": "Tarihin Yılan Hikayesi"
 			},
 			{
-				"eser": "Batarya İle Ateş"
+				"eser": "Çizgi"
 			},
 			{
-				"eser": "Çal Çoban Çal"
+				"eser": "Şakacı"
 			},
 			{
-				"eser": "Gizli Figanlar"
-			},
-			{
-				"eser": "Malta Geceleri"
-			},
-			{
-				"eser": "Malum-ı İlam"
-			}
-		],
-		"Salah Birsel": [
-			{
-				"eser": "Sergüzeşt-i Nono Bey Ve Elmas B."
-			},
-			{
-				"eser": "Ah Beyoğlu Vah Beyoğlu"
-			},
-			{
-				"eser": "Amerikalı Tolstoy"
-			},
-			{
-				"eser": "Asansör"
-			},
-			{
-				"eser": "Ases"
-			},
-			{
-				"eser": "Aynalar Günlüğü"
-			},
-			{
-				"eser": "Baş Ve Ayak"
-			},
-			{
-				"eser": "Bay Sessizlik"
-			},
-			{
-				"eser": "Bir Zavallı Sarı At"
-			},
-			{
-				"eser": "Boğaziçi Şıngır Mıngır"
-			},
-			{
-				"eser": "Çarleston"
-			},
-			{
-				"eser": "Dört Köşeli İnsan"
-			},
-			{
-				"eser": "Dünya İşleri"
-			},
-			{
-				"eser": "Fransız Resminde İzlenimcilik"
-			},
-			{
-				"eser": "Gandhi Yada Hint Kirazının Gölgesinde"
-			},
-			{
-				"eser": "Gece Mavisi"
-			},
-			{
-				"eser": "Hacivat Günlüğü"
-			},
-			{
-				"eser": "Hacivat’ın Karısı"
-			},
-			{
-				"eser": "Halley Kimi Kurtarır"
-			},
-			{
-				"eser": "Haydar Haydar"
-			},
-			{
-				"eser": "İnce Donanma"
-			},
-			{
-				"eser": "İstanbul-Paris"
-			},
-			{
-				"eser": "Kahveler Kitabı"
-			},
-			{
-				"eser": "Kediler"
-			},
-			{
-				"eser": "Kendimle Konuşmalar"
-			},
-			{
-				"eser": "Kikirikname"
-			},
-			{
-				"eser": "Köçekçeler"
-			},
-			{
-				"eser": "Kurutulmuş Felsefe Bahçesi"
-			},
-			{
-				"eser": "Kuşları Örtünmek"
-			},
-			{
-				"eser": "Nezleli Karga"
-			},
-			{
-				"eser": "Paf Ve Puf"
-			},
-			{
-				"eser": "Papağanname"
-			},
-			{
-				"eser": "Rumba Da Rumba"
-			},
-			{
-				"eser": "Sev Beni Sev"
-			},
-			{
-				"eser": "Sevdim Seni Ey İnsan"
-			},
-			{
-				"eser": "Seyirci Sahneye Çıkıyor"
-			},
-			{
-				"eser": "Şiir Ve Cinayet"
-			},
-			{
-				"eser": "Şiirin İlkeleri"
-			},
-			{
-				"eser": "Şişedeki Zenci"
-			},
-			{
-				"eser": "Varduman"
-			},
-			{
-				"eser": "Yalelli"
-			},
-			{
-				"eser": "Yanlış Parmak"
-			},
-			{
-				"eser": "Yapıştırma Bıyık"
-			},
-			{
-				"eser": "Yaşama Sevinci"
-			},
-			{
-				"eser": "Yaşlılık Günlüğü"
+				"eser": "Şarkılı Kahve"
 			}
 		],
 		"Sabahattin Ali": [
@@ -4737,7 +4704,7 @@
 				"eser": "Kuyucaklı Yusuf"
 			},
 			{
-				"eser": "Öteki Şiirler"
+				"eser": "Ses"
 			},
 			{
 				"eser": "Sırça Köşk"
@@ -4746,7 +4713,7 @@
 				"eser": "Yeni Dünya"
 			},
 			{
-				"eser": "Ses"
+				"eser": "Öteki Şiirler"
 			}
 		],
 		"Sabahattin Eyüpoğlu": [
@@ -4798,33 +4765,170 @@
 				"eser": "Bir Vagon Penceresinden"
 			},
 			{
-				"eser": "Çıkrıklar Durunca"
-			},
-			{
 				"eser": "Düşkünler"
 			},
 			{
 				"eser": "Fikir Ve Sanat"
 			},
 			{
-				"eser": "Kıyılardan Stepe Bir Vagon Penceresin"
+				"eser": "Korku"
 			},
 			{
-				"eser": "Korku"
+				"eser": "Kıyılardan Stepe Bir Vagon Penceresin"
 			},
 			{
 				"eser": "Silindir Şapka Giyen Köylü"
 			},
 			{
 				"eser": "Yol Arkadaşları"
+			},
+			{
+				"eser": "Çıkrıklar Durunca"
+			}
+		],
+		"Salah Birsel": [
+			{
+				"eser": "Ah Beyoğlu Vah Beyoğlu"
+			},
+			{
+				"eser": "Amerikalı Tolstoy"
+			},
+			{
+				"eser": "Asansör"
+			},
+			{
+				"eser": "Ases"
+			},
+			{
+				"eser": "Aynalar Günlüğü"
+			},
+			{
+				"eser": "Bay Sessizlik"
+			},
+			{
+				"eser": "Baş Ve Ayak"
+			},
+			{
+				"eser": "Bir Zavallı Sarı At"
+			},
+			{
+				"eser": "Boğaziçi Şıngır Mıngır"
+			},
+			{
+				"eser": "Dört Köşeli İnsan"
+			},
+			{
+				"eser": "Dünya İşleri"
+			},
+			{
+				"eser": "Fransız Resminde İzlenimcilik"
+			},
+			{
+				"eser": "Gandhi Yada Hint Kirazının Gölgesinde"
+			},
+			{
+				"eser": "Gece Mavisi"
+			},
+			{
+				"eser": "Hacivat Günlüğü"
+			},
+			{
+				"eser": "Hacivat’ın Karısı"
+			},
+			{
+				"eser": "Halley Kimi Kurtarır"
+			},
+			{
+				"eser": "Haydar Haydar"
+			},
+			{
+				"eser": "İnce Donanma"
+			},
+			{
+				"eser": "İstanbul-Paris"
+			},
+			{
+				"eser": "Kahveler Kitabı"
+			},
+			{
+				"eser": "Kediler"
+			},
+			{
+				"eser": "Kendimle Konuşmalar"
+			},
+			{
+				"eser": "Kikirikname"
+			},
+			{
+				"eser": "Kurutulmuş Felsefe Bahçesi"
+			},
+			{
+				"eser": "Kuşları Örtünmek"
+			},
+			{
+				"eser": "Köçekçeler"
+			},
+			{
+				"eser": "Nezleli Karga"
+			},
+			{
+				"eser": "Paf Ve Puf"
+			},
+			{
+				"eser": "Papağanname"
+			},
+			{
+				"eser": "Rumba Da Rumba"
+			},
+			{
+				"eser": "Sergüzeşt-i Nono Bey Ve Elmas Boğaziçi"
+			},
+			{
+				"eser": "Sev Beni Sev"
+			},
+			{
+				"eser": "Sevdim Seni Ey İnsan"
+			},
+			{
+				"eser": "Seyirci Sahneye Çıkıyor"
+			},
+			{
+				"eser": "Varduman"
+			},
+			{
+				"eser": "Yalelli"
+			},
+			{
+				"eser": "Yanlış Parmak"
+			},
+			{
+				"eser": "Yapıştırma Bıyık"
+			},
+			{
+				"eser": "Yaşama Sevinci"
+			},
+			{
+				"eser": "Yaşlılık Günlüğü"
+			},
+			{
+				"eser": "Çarleston"
+			},
+			{
+				"eser": "Şiir Ve Cinayet"
+			},
+			{
+				"eser": "Şiirin İlkeleri"
+			},
+			{
+				"eser": "Şişedeki Zenci"
 			}
 		],
 		"Samiha Ayverdi": [
 			{
-				"eser": "Aşk Bu İmiş"
+				"eser": "Ateş Ağacı"
 			},
 			{
-				"eser": "Ateş Ağacı"
+				"eser": "Aşk Bu İmiş"
 			},
 			{
 				"eser": "Batmayan Gün"
@@ -4877,10 +4981,10 @@
 				"eser": "Alandaki Delikanlı"
 			},
 			{
-				"eser": "Bir Çift Öküz"
+				"eser": "Bir Karış Toprak"
 			},
 			{
-				"eser": "Bir Karış Toprak"
+				"eser": "Bir Çift Öküz"
 			},
 			{
 				"eser": "Bir Şehrin İki Kapısı"
@@ -4922,10 +5026,10 @@
 				"eser": "Yağmurdaki Kız"
 			},
 			{
-				"eser": "Yılan Hikayesi"
+				"eser": "Yolun Üstündeki Kaya"
 			},
 			{
-				"eser": "Yolun Üstündeki Kaya"
+				"eser": "Yılan Hikayesi"
 			}
 		],
 		"Sezai Karakoç": [
@@ -4942,19 +5046,19 @@
 				"eser": "Hızır’la Kırk Saat"
 			},
 			{
-				"eser": "Kıyamet Aşısı"
+				"eser": "Körfez"
 			},
 			{
-				"eser": "Körfez"
+				"eser": "Kıyamet Aşısı"
 			},
 			{
 				"eser": "Leyla-ü Mecnun"
 			},
 			{
-				"eser": "Mağara Ve Işık"
+				"eser": "Makamda"
 			},
 			{
-				"eser": "Makamda"
+				"eser": "Mağara Ve Işık"
 			},
 			{
 				"eser": "Meydan Ortaya Çıktığında"
@@ -4963,123 +5067,62 @@
 				"eser": "Mona Rosa"
 			},
 			{
-				"eser": "Ölümden Sonra Kalkış"
-			},
-			{
 				"eser": "Sesler"
-			},
-			{
-				"eser": "Şahdamar"
 			},
 			{
 				"eser": "Taha’nın Kitabı"
 			},
 			{
 				"eser": "Zamana Adanmış Gönüller"
+			},
+			{
+				"eser": "Ölümden Sonra Kalkış"
+			},
+			{
+				"eser": "Şahdamar"
 			}
 		],
-		"Ş. Süreyya Aydemir": [
+		"Süleyman Nazif": [
 			{
-				"eser": "Enver Paşa"
+				"eser": "Batarya İle Ateş"
 			},
 			{
-				"eser": "İhtilalin Mantığı"
+				"eser": "Gizli Figanlar"
 			},
 			{
-				"eser": "İkinci Adam"
+				"eser": "Malta Geceleri"
 			},
 			{
-				"eser": "İnkılap Ve Kadro"
+				"eser": "Malum-ı İlam"
 			},
 			{
-				"eser": "Menderes’in Dramı"
+				"eser": "Tarihin Yılan Hikayesi"
 			},
 			{
-				"eser": "Suyu Arayan Adam"
-			},
-			{
-				"eser": "Tek Adam"
-			},
-			{
-				"eser": "Toprak Uyanırsa"
+				"eser": "Çal Çoban Çal"
 			}
 		],
-		"Şemseddin Sami": [
+		"Tahir Alangu": [
 			{
-				"eser": "Kamus-i Arabi"
+				"eser": "Ataç’a Saygı"
 			},
 			{
-				"eser": "Kamus-i Türki"
+				"eser": "Cumhuriyet’ten Sonra Hikaye Ve Roman"
 			},
 			{
-				"eser": "Taaşşuk-ıtalat Ve Fitnat"
-			}
-		],
-		"Şevket Rado": [
-			{
-				"eser": "Aile Sohbetleri"
+				"eser": "Sait Faik İçin"
 			},
 			{
-				"eser": "Eşref Saat"
+				"eser": "Türkiye’de Folklorun El Kitabı"
 			},
 			{
-				"eser": "Hayat Böyledir"
+				"eser": "Ömer Seyfettin’in Bütün Eserleri"
 			},
 			{
-				"eser": "Ümit Dünyası"
-			}
-		],
-		"Şükufe Nihal": [
-			{
-				"eser": "Çöl Güneşi"
-			},
-			{
-				"eser": "Çölde Sabah Oluyor"
-			},
-			{
-				"eser": "Domaniç Dağlarının Yolcusu"
-			},
-			{
-				"eser": "Finlandiya"
-			},
-			{
-				"eser": "Gayya"
-			},
-			{
-				"eser": "Hazan Rüzgarları"
-			},
-			{
-				"eser": "Renksiz Istırap"
-			},
-			{
-				"eser": "Sabah Kuşları"
-			},
-			{
-				"eser": "Sıla Yoları"
-			},
-			{
-				"eser": "Su"
-			},
-			{
-				"eser": "Tevekkülün Cezası"
-			},
-			{
-				"eser": "Yakut Kayalar"
-			},
-			{
-				"eser": "Yalnız Dönüyorum"
-			},
-			{
-				"eser": "Yerden Göğe"
-			},
-			{
-				"eser": "Yıldızlar Ve Gölgeler"
+				"eser": "Ülkücü Bir Yazarın Romanı"
 			}
 		],
 		"Tarık Buğra": [
-			{
-				"eser": "Yarın Diye Bir Şey Yoktur"
-			},
 			{
 				"eser": "Ayakta Durmak İstiyorum"
 			},
@@ -5102,10 +5145,10 @@
 				"eser": "Gagaringrad"
 			},
 			{
-				"eser": "Gençliğim Eyvah"
+				"eser": "Gençlik Türküsü"
 			},
 			{
-				"eser": "Gençlik Türküsü"
+				"eser": "Gençliğim Eyvah"
 			},
 			{
 				"eser": "Güneş Rengi Bir Yığın Yaprak"
@@ -5126,45 +5169,28 @@
 				"eser": "Küçük Ağa"
 			},
 			{
-				"eser": "Oğlumuz"
+				"eser": "Osmancık"
 			},
 			{
-				"eser": "Osmancık"
+				"eser": "Oğlumuz"
 			},
 			{
 				"eser": "Politika Dışı"
 			},
 			{
-				"eser": "Sıfırdan Doruğa Patron"
-			},
-			{
 				"eser": "Siyah Kehribar"
 			},
 			{
-				"eser": "Yağmur Beklerken"
+				"eser": "Sıfırdan Doruğa Patron"
 			},
 			{
 				"eser": "Yalnızlar"
-			}
-		],
-		"Tahir Alangu": [
-			{
-				"eser": "Ataç’a Saygı"
 			},
 			{
-				"eser": "Cumhuriyet’ten Sonra Hikaye Ve Roman"
+				"eser": "Yarın Diye Bir Şey Yoktur"
 			},
 			{
-				"eser": "Ömer Seyfettin’in Bütün Eserleri"
-			},
-			{
-				"eser": "Sait Faik İçin"
-			},
-			{
-				"eser": "Türkiye’de Folklorun El Kitabı"
-			},
-			{
-				"eser": "Ülkücü Bir Yazarın Romanı"
+				"eser": "Yağmur Beklerken"
 			}
 		],
 		"Turan Oflazoğlu": [
@@ -5216,122 +5242,6 @@
 				"eser": "Tütünler Islak"
 			}
 		],
-		"Ü. Yaşar Oğuzcan": [
-			{
-				"eser": "Acılar Denizi"
-			},
-			{
-				"eser": "Akıllı Maymunlar"
-			},
-			{
-				"eser": "Aşkımızın Son Çarşambası"
-			},
-			{
-				"eser": "Avrupa Görmüş Adam"
-			},
-			{
-				"eser": "Ben Seni Sevdim Mi"
-			},
-			{
-				"eser": "Bir Daha Ölmek"
-			},
-			{
-				"eser": "Bir Gün Anlarsın"
-			},
-			{
-				"eser": "Biraz Kül Biraz Duman"
-			},
-			{
-				"eser": "Çigan Gözler"
-			},
-			{
-				"eser": "Deniz Musikisi"
-			},
-			{
-				"eser": "Dikiz Aynası"
-			},
-			{
-				"eser": "Dillere Destan"
-			},
-			{
-				"eser": "Dolmuş"
-			},
-			{
-				"eser": "En Eski Yalnızlığımdır Aşk Benim"
-			},
-			{
-				"eser": "Göbek Davası"
-			},
-			{
-				"eser": "Halktan Yana"
-			},
-			{
-				"eser": "İki Kişiye Bir Dünya"
-			},
-			{
-				"eser": "İnsanoğlu"
-			},
-			{
-				"eser": "Karanlığın Gözleri"
-			},
-			{
-				"eser": "Kör Ayna"
-			},
-			{
-				"eser": "Mihribana Şiirler"
-			},
-			{
-				"eser": "Ötesi Yok"
-			},
-			{
-				"eser": "Rubailer"
-			},
-			{
-				"eser": "Sadrazamın Sol Kulağı"
-			},
-			{
-				"eser": "Sahibini Arayan Mektuplar"
-			},
-			{
-				"eser": "Sevenler Ölmez"
-			},
-			{
-				"eser": "Şiirle Kırk Yıl"
-			},
-			{
-				"eser": "Taşlar Ve Başlar"
-			},
-			{
-				"eser": "Toprak Onlara Kadar"
-			},
-			{
-				"eser": "Üstüme Varma İstanbul"
-			},
-			{
-				"eser": "Yalan Bitti"
-			},
-			{
-				"eser": "Yeni Dünya Rekoru"
-			},
-			{
-				"eser": "Yüz Yıl Yanarım Yanmayı Öğrendimse"
-			},
-			{
-				"eser": "Aşk Mıydı O"
-			},
-			{
-				"eser": "Hüzün Şarkıları"
-			},
-			{
-				"eser": "Önce Sen Sonra Sen"
-			},
-			{
-				"eser": "Seninle Ölmek İstiyorum"
-			},
-			{
-				"eser": "Şiirde Kırk Yıl"
-			}
-		],
 		"V. Mahir Kocatürk": [
 			{
 				"eser": "Bizim Türküler"
@@ -5369,12 +5279,6 @@
 				"eser": "Merzifon Şairleri"
 			},
 			{
-				"eser": "Öksüz Yusuf"
-			},
-			{
-				"eser": "Ölümsüz Atamız"
-			},
-			{
 				"eser": "Sivas Folkloru"
 			},
 			{
@@ -5382,6 +5286,12 @@
 			},
 			{
 				"eser": "Yayladan Sesler"
+			},
+			{
+				"eser": "Öksüz Yusuf"
+			},
+			{
+				"eser": "Ölümsüz Atamız"
 			}
 		],
 		"Vusat O. Bener": [
@@ -5471,19 +5381,19 @@
 				"eser": "Cenk Ufukları"
 			},
 			{
-				"eser": "Göç"
+				"eser": "Göz Ucuyla Avrupa"
 			},
 			{
-				"eser": "Göz Ucuyla Avrupa"
+				"eser": "Göç"
 			},
 			{
 				"eser": "Gün Doğmadan"
 			},
 			{
-				"eser": "Kördüğüm"
+				"eser": "Kuş Cıvıltıları"
 			},
 			{
-				"eser": "Kuş Cıvıltıları"
+				"eser": "Kördüğüm"
 			},
 			{
 				"eser": "Kürkçü Dükkanı"
@@ -5501,16 +5411,16 @@
 				"eser": "Sarı Çizmeli Mehmet Ağa"
 			},
 			{
-				"eser": "Şeker Osman"
-			},
-			{
-				"eser": "Şen Kitap"
+				"eser": "Yanardağ"
 			},
 			{
 				"eser": "Üç Katlı Ev"
 			},
 			{
-				"eser": "Yanardağ"
+				"eser": "Şeker Osman"
+			},
+			{
+				"eser": "Şen Kitap"
 			}
 		],
 		"Yakup Kadri": [
@@ -5521,7 +5431,7 @@
 				"eser": "Ankara"
 			},
 			{
-				"eser": "Bir Serencam."
+				"eser": "Bir Serencam"
 			},
 			{
 				"eser": "Bir Sürgün"
@@ -5571,15 +5481,6 @@
 		],
 		"Yaşar Kemal": [
 			{
-				"eser": "Ağacın Çürüğü"
-			},
-			{
-				"eser": "Ağıtlar"
-			},
-			{
-				"eser": "Ağrı Dağı Efsanesi"
-			},
-			{
 				"eser": "Al Gözlüm Seyreyle Salih"
 			},
 			{
@@ -5587,6 +5488,15 @@
 			},
 			{
 				"eser": "Allah’ın Askerleri"
+			},
+			{
+				"eser": "Ağacın Çürüğü"
+			},
+			{
+				"eser": "Ağrı Dağı Efsanesi"
+			},
+			{
+				"eser": "Ağıtlar"
 			},
 			{
 				"eser": "Baldaki Tuz"
@@ -5601,19 +5511,13 @@
 				"eser": "Bir Bulut Kaynıyor"
 			},
 			{
-				"eser": "Çakırcalı Efe"
-			},
-			{
-				"eser": "Çukurova Yana Yana"
-			},
-			{
 				"eser": "Deniz Küstü"
 			},
 			{
-				"eser": "Fırat Suyu Kan Akıyor"
+				"eser": "Filler Sultanı İle Kırmızı Sakallı Karınca"
 			},
 			{
-				"eser": "Filler Sultanı İle Kırmızı Sakallı Karınca"
+				"eser": "Fırat Suyu Kan Akıyor"
 			},
 			{
 				"eser": "Höyükteki Nar Ağacı"
@@ -5637,9 +5541,6 @@
 				"eser": "Namus Düşmanı"
 			},
 			{
-				"eser": "Ölmez Otu"
-			},
-			{
 				"eser": "Peri Bacaları"
 			},
 			{
@@ -5652,39 +5553,28 @@
 				"eser": "Taş Çatlasa"
 			},
 			{
-				"eser": "Üç Anadolu Efsanesi"
-			},
-			{
 				"eser": "Yanan Ormanlarda Elli Gün"
 			},
 			{
 				"eser": "Yer Demir Gök Bakır"
 			},
 			{
+				"eser": "Yusufçuk Yusuf"
+			},
+			{
 				"eser": "Yılanı Öldürseler"
 			},
 			{
-				"eser": "Yusufçuk Yusuf"
-			}
-		],
-		"Yılmaz Boyunağa": [
-			{
-				"eser": "Hilal Uğruna"
+				"eser": "Çakırcalı Efe"
 			},
 			{
-				"eser": "Kan Ve Gül"
+				"eser": "Çukurova Yana Yana"
 			},
 			{
-				"eser": "Kırık Hançer"
+				"eser": "Ölmez Otu"
 			},
 			{
-				"eser": "Malazgirt’in Üç Atlısı"
-			},
-			{
-				"eser": "Hint Sularında"
-			},
-			{
-				"eser": "Zafer Rüzgarları"
+				"eser": "Üç Anadolu Efsanesi"
 			}
 		],
 		"Yusuf Atılgan": [
@@ -5710,6 +5600,26 @@
 				"eser": "Toplumda Sanat"
 			}
 		],
+		"Yılmaz Boyunağa": [
+			{
+				"eser": "Hilal Uğruna"
+			},
+			{
+				"eser": "Hint Sularında"
+			},
+			{
+				"eser": "Kan Ve Gül"
+			},
+			{
+				"eser": "Kırık Hançer"
+			},
+			{
+				"eser": "Malazgirt’in Üç Atlısı"
+			},
+			{
+				"eser": "Zafer Rüzgarları"
+			}
+		],
 		"Z. Osman Saba": [
 			{
 				"eser": "Değşen İnsanlar"
@@ -5726,195 +5636,814 @@
 			{
 				"eser": "Sebil Ve Güvercinler"
 			}
+		],
+		"Ö. Bedrettin Uşaklı": [
+			{
+				"eser": "Deniz Sarhoşları"
+			},
+			{
+				"eser": "Sarıkız Mermerleri"
+			},
+			{
+				"eser": "Yayla Dumanı"
+			}
+		],
+		"Ü. Yaşar Oğuzcan": [
+			{
+				"eser": "Acılar Denizi"
+			},
+			{
+				"eser": "Akıllı Maymunlar"
+			},
+			{
+				"eser": "Avrupa Görmüş Adam"
+			},
+			{
+				"eser": "Aşk Mıydı O"
+			},
+			{
+				"eser": "Aşkımızın Son Çarşambası"
+			},
+			{
+				"eser": "Ben Seni Sevdim Mi"
+			},
+			{
+				"eser": "Bir Daha Ölmek"
+			},
+			{
+				"eser": "Bir Gün Anlarsın"
+			},
+			{
+				"eser": "Biraz Kül Biraz Duman"
+			},
+			{
+				"eser": "Deniz Musikisi"
+			},
+			{
+				"eser": "Dikiz Aynası"
+			},
+			{
+				"eser": "Dillere Destan"
+			},
+			{
+				"eser": "Dolmuş"
+			},
+			{
+				"eser": "En Eski Yalnızlığımdır Aşk Benim"
+			},
+			{
+				"eser": "Göbek Davası"
+			},
+			{
+				"eser": "Halktan Yana"
+			},
+			{
+				"eser": "Hüzün Şarkıları"
+			},
+			{
+				"eser": "İki Kişiye Bir Dünya"
+			},
+			{
+				"eser": "İnsanoğlu"
+			},
+			{
+				"eser": "Karanlığın Gözleri"
+			},
+			{
+				"eser": "Kör Ayna"
+			},
+			{
+				"eser": "Mihribana Şiirler"
+			},
+			{
+				"eser": "Rubailer"
+			},
+			{
+				"eser": "Sadrazamın Sol Kulağı"
+			},
+			{
+				"eser": "Sahibini Arayan Mektuplar"
+			},
+			{
+				"eser": "Seninle Ölmek İstiyorum"
+			},
+			{
+				"eser": "Sevenler Ölmez"
+			},
+			{
+				"eser": "Taşlar Ve Başlar"
+			},
+			{
+				"eser": "Toprak Onlara Kadar"
+			},
+			{
+				"eser": "Yalan Bitti"
+			},
+			{
+				"eser": "Yeni Dünya Rekoru"
+			},
+			{
+				"eser": "Yüz Yıl Yanarım Yanmayı Öğrendimse"
+			},
+			{
+				"eser": "Çigan Gözler"
+			},
+			{
+				"eser": "Önce Sen Sonra Sen"
+			},
+			{
+				"eser": "Ötesi Yok"
+			},
+			{
+				"eser": "Üstüme Varma İstanbul"
+			},
+			{
+				"eser": "Şiirde Kırk Yıl"
+			},
+			{
+				"eser": "Şiirle Kırk Yıl"
+			}
+		],
+		"Ş. Süreyya Aydemir": [
+			{
+				"eser": "Enver Paşa"
+			},
+			{
+				"eser": "İhtilalin Mantığı"
+			},
+			{
+				"eser": "İkinci Adam"
+			},
+			{
+				"eser": "İnkılap Ve Kadro"
+			},
+			{
+				"eser": "Menderes’in Dramı"
+			},
+			{
+				"eser": "Suyu Arayan Adam"
+			},
+			{
+				"eser": "Tek Adam"
+			},
+			{
+				"eser": "Toprak Uyanırsa"
+			}
+		],
+		"Şemseddin Sami": [
+			{
+				"eser": "Kamus-i Arabi"
+			},
+			{
+				"eser": "Kamus-i Türki"
+			},
+			{
+				"eser": "Taaşşuk-ıtalat Ve Fitnat"
+			}
+		],
+		"Şevket Rado": [
+			{
+				"eser": "Aile Sohbetleri"
+			},
+			{
+				"eser": "Eşref Saat"
+			},
+			{
+				"eser": "Hayat Böyledir"
+			},
+			{
+				"eser": "Ümit Dünyası"
+			}
+		],
+		"Şükufe Nihal": [
+			{
+				"eser": "Domaniç Dağlarının Yolcusu"
+			},
+			{
+				"eser": "Finlandiya"
+			},
+			{
+				"eser": "Gayya"
+			},
+			{
+				"eser": "Hazan Rüzgarları"
+			},
+			{
+				"eser": "Renksiz Istırap"
+			},
+			{
+				"eser": "Sabah Kuşları"
+			},
+			{
+				"eser": "Su"
+			},
+			{
+				"eser": "Sıla Yoları"
+			},
+			{
+				"eser": "Tevekkülün Cezası"
+			},
+			{
+				"eser": "Yakut Kayalar"
+			},
+			{
+				"eser": "Yalnız Dönüyorum"
+			},
+			{
+				"eser": "Yerden Göğe"
+			},
+			{
+				"eser": "Yıldızlar Ve Gölgeler"
+			},
+			{
+				"eser": "Çöl Güneşi"
+			},
+			{
+				"eser": "Çölde Sabah Oluyor"
+			}
 		]
 	},
-	"Tanzimat Dönemi": {
-		"A. Mithat Efendi": [
+	"Divan Edebiyatı": {
+		"Ahmedi": [
 			{
-				"eser": "Dürdane Hanım"
+				"eser": "Bedâyi'u’s-siĥr fî śanâyi'i’ş-şi'r"
 			},
 			{
-				"eser": "Felatun Bey’le Rakım Efendi"
+				"eser": "Cemşîd ü Hurşid"
 			},
 			{
-				"eser": "Hasan Mellah"
+				"eser": "İskendernâme"
 			},
 			{
-				"eser": "Henüz 17 Yaşında"
+				"eser": "Mirķātü’l-edeb"
 			},
 			{
-				"eser": "Hüseyin Fellah"
+				"eser": "Mi’yârü’l-edeb"
 			},
 			{
-				"eser": "Letaif-i Rivayat"
+				"eser": "Mîzânü’l-edeb"
 			},
 			{
-				"eser": "Paris’te Bir Türk"
+				"eser": "Tervîhu’l-ervâh"
 			}
 		],
-		"A. Vefik Paşa": [
+		"Ali Şir Nevaî": [
 			{
-				"eser": "Lehçe-i Osmani"
+				"eser": "Bedâyiü'l-Vasat"
 			},
 			{
-				"eser": "Şecere-i Türk"
+				"eser": "Ferhat ve Şirin"
 			},
 			{
-				"eser": "Tarih-i Osmani"
+				"eser": "Fevâidü'l-Kiber"
+			},
+			{
+				"eser": "Garâibü's-Sağîr"
+			},
+			{
+				"eser": "Hamsetü'l-Mütehayyirîn"
+			},
+			{
+				"eser": "Hayretü'l-Ebrâr"
+			},
+			{
+				"eser": "Hazâinü'l Maânî"
+			},
+			{
+				"eser": "Lisânü't-Tayr"
+			},
+			{
+				"eser": "Mahbûbü'l-Kulûb fi'l-Ahlâk"
+			},
+			{
+				"eser": "Mecâlisü'n-Nefâis"
+			},
+			{
+				"eser": "Muhâkemetü'l-Lügateyn"
+			},
+			{
+				"eser": "Mîzânü'l-Evzân"
+			},
+			{
+				"eser": "Münşeât"
+			},
+			{
+				"eser": "Nazmü'l-Cevâhir"
+			},
+			{
+				"eser": "Nesâimü'l-Mehabbe"
+			},
+			{
+				"eser": "Nevâdirü'ş Şebâb"
+			},
+			{
+				"eser": "Rekâbet-ü'l-Münâdî"
+			},
+			{
+				"eser": "Seb'a-i Seyyârem"
+			},
+			{
+				"eser": "Sedd-i İskender"
+			},
+			{
+				"eser": "Seyfü'l-Hâdî"
+			},
+			{
+				"eser": "Sirâcü'l-Müslimîn"
+			},
+			{
+				"eser": "Tarihu'l-Enbiyâ"
+			},
+			{
+				"eser": "Tühfetü'l Mülûk"
 			}
 		],
-		"Muallim Naci": [
+		"Aşık Paşa": [
 			{
-				"eser": "Demdeme"
+				"eser": "Fakrnâme"
 			},
 			{
-				"eser": "Islahat-ı Edebiye"
+				"eser": "Garibnâme"
 			},
 			{
-				"eser": "Şerare"
+				"eser": "Kimya Risâlesi"
 			},
 			{
-				"eser": "Lügat-i Naci"
-			},
-			{
-				"eser": "Ateşpare"
+				"eser": "Vasf-ı Hâl"
 			}
 		],
-		"Nabizade Nazım": [
+		"Bâkî": [
 			{
-				"eser": "Bir Hatıra"
+				"eser": "Fazâ'ilü'l-Cihad"
 			},
 			{
-				"eser": "Hâlâ Güzel"
+				"eser": "Fazâil'i-Mekke"
 			},
 			{
-				"eser": "Karabibik"
+				"eser": "Hadîs-i Erbain Tercümesi"
 			},
 			{
-				"eser": "Sevda"
-			},
-			{
-				"eser": "Zavallı Kız"
-			},
-			{
-				"eser": "Zehra"
+				"eser": "Kanuni Mersiyesi"
 			}
 		],
-		"Namık Kemal": [
+		"Enderunlu Fâzıl": [
 			{
-				"eser": "Akif Bey"
+				"eser": "Defter-i Aşk"
 			},
 			{
-				"eser": "Celaleddin Harzemşah"
+				"eser": "Hûban-nâme"
 			},
 			{
-				"eser": "Cezmi"
+				"eser": "Zenannâme"
 			},
 			{
-				"eser": "Gülnihal"
-			},
-			{
-				"eser": "İntibah"
-			},
-			{
-				"eser": "Kanije"
-			},
-			{
-				"eser": "Kara Bela"
-			},
-			{
-				"eser": "Renan Müdafaası"
-			},
-			{
-				"eser": "Silistre Muhasarası"
-			},
-			{
-				"eser": "Tahrib-i Harabad"
-			},
-			{
-				"eser": "Takip"
-			},
-			{
-				"eser": "Vatan Yahut Silistre"
-			},
-			{
-				"eser": "Zavallı Çocuk"
+				"eser": "Çengi-nâme"
 			}
 		],
-		"R. Mahmut Ekrem": [
+		"Fuzûlî": [
 			{
-				"eser": "Afife Anjelik"
+				"eser": "Beng ü Bade"
 			},
 			{
-				"eser": "Araba Sevdası"
+				"eser": "Enis'ül-Kalb"
 			},
 			{
-				"eser": "Nağme-i Seher"
+				"eser": "Hadikatü's-Süeda"
 			},
 			{
-				"eser": "Nejad"
+				"eser": "Heft Cam"
 			},
 			{
-				"eser": "Pejmürde"
+				"eser": "Matlau'l-itikad"
 			},
 			{
-				"eser": "Takdir-i Elhan"
+				"eser": "Resâle-e Muammeyât"
 			},
 			{
-				"eser": "Talim-i Edebiyat"
+				"eser": "Rind ü Zahid"
 			},
 			{
-				"eser": "Vuslat Atala"
+				"eser": "Risale-i Muamma"
 			},
 			{
-				"eser": "Yadigar-ı Şebab"
+				"eser": "Risale-i Muammeyat"
 			},
 			{
-				"eser": "Zemzeme"
+				"eser": "Sehhat o Ma'ruz"
 			},
 			{
-				"eser": "Çok Bilen Çok Yanılır"
+				"eser": "Su kasidesi"
+			},
+			{
+				"eser": "Şikâyetnâme"
 			}
 		],
-		"Samipaşazade Sezai": [
+		"Gülşehrî": [
 			{
-				"eser": "İclal"
+				"eser": "Aruz Risalesi"
 			},
 			{
-				"eser": "Küçük Şeyler"
+				"eser": "Feleknâme"
 			},
 			{
-				"eser": "Sergüzeşt"
+				"eser": "Kerâmât-ı Ahi Evran"
 			},
 			{
-				"eser": "Şir"
+				"eser": "Kudûrî Tercümesi"
+			},
+			{
+				"eser": "Mantı-ku’t-Tayr"
 			}
 		],
-		"Şinasi": [
+		"Hoca Dehhani": [
 			{
-				"eser": "Durub-ı Emsal-i Osmani"
+				"eser": "Selçuk Şehnamesi"
+			}
+		],
+		"Kadı Burhaneddin": [
+			{
+				"eser": "İksirü's-Sa'adat fi-Esrari'I-İbadat"
 			},
 			{
-				"eser": "Müntehabat-ı Eşar"
+				"eser": "Tercihu't-Tavzih"
+			}
+		],
+		"Keçecizâde İzzet Molla": [
+			{
+				"eser": "Devhat-ül-Mehâmid fi Tercemet-il-Vâlid"
 			},
 			{
-				"eser": "Şair Evlenmesi"
+				"eser": "Dîvân-i Bahr-i Efkâr"
+			},
+			{
+				"eser": "Dîvân-ı Hazân-ı Âsâr"
+			},
+			{
+				"eser": "Gülşen-i Aşk"
+			},
+			{
+				"eser": "Lâyiha"
+			},
+			{
+				"eser": "Mihnet Keşan"
+			},
+			{
+				"eser": "Şerh-i Elgâz-ı Râgıb Paşa "
+			}
+		],
+		"Kâtip Çelebi": [
+			{
+				"eser": "Beyzâvi Tefsirinin şerhi"
+			},
+			{
+				"eser": "Cihannüma "
+			},
+			{
+				"eser": "Câmi-ul-Mütûn min Cüll-il-Fünûn"
+			},
+			{
+				"eser": "Dürer-i münteşire ve gurer-i münteşire"
+			},
+			{
+				"eser": "Düstûrü'l-amel fi ıslâhı'l-halel"
+			},
+			{
+				"eser": "İlhâmü'l-mukaddes min feyzi'l-akdes"
+			},
+			{
+				"eser": "Keşfü'z-zunûn anil-esâmi ve'l-fünun"
+			},
+			{
+				"eser": "Levâmiu’n-nur fi zulmeti Atlas Minur"
+			},
+			{
+				"eser": "Muhammediyye şerh"
+			},
+			{
+				"eser": "Mîzânü'l-Hakk fi ihtiyâri'l-ahakk"
+			},
+			{
+				"eser": "Müntehab-ı Bahriye"
+			},
+			{
+				"eser": "Recmü’r-râcim bi’s-sîn ve’l-Cim"
+			},
+			{
+				"eser": "Süllemü’l-vusûl ilâ tabakati’l-fûhûl"
+			},
+			{
+				"eser": "Takvîmü't-tevârih"
+			},
+			{
+				"eser": "Tarîh-i Frengi tercümesi"
+			},
+			{
+				"eser": "Tarîh-i Kostantaniyye ve Keyasire"
+			},
+			{
+				"eser": "Tuhfetü’l-ahyâr fi’l-hıkem ve’l-eş’âr"
+			},
+			{
+				"eser": "Tuhfet’ül-kibâr fi esfâri’l-bihâr"
+			},
+			{
+				"eser": "Tütün Risalesi"
+			}
+		],
+		"Latîfî": [
+			{
+				"eser": "Enisü'l-Fusaha"
+			},
+			{
+				"eser": "Esma'ü Süveri'l-Kur'an"
+			},
+			{
+				"eser": "Evsaf-ı İbrahim"
+			},
+			{
+				"eser": "Evsaf-ı İstanbul"
+			},
+			{
+				"eser": "Fusul-i Erbaa"
+			},
+			{
+				"eser": "Nazmü'l-cevahir"
+			},
+			{
+				"eser": "Sübhatü'l-uşşak"
+			},
+			{
+				"eser": "Tezkiretü'ş-şuara"
+			}
+		],
+		"Mevlânâ Celâleddîn-i Rûmî": [
+			{
+				"eser": "Dîvân-ı Kebîr"
+			},
+			{
+				"eser": "Fîh-i Mâ-Fîh"
+			},
+			{
+				"eser": "Mecâlis-i Seb’a"
+			},
+			{
+				"eser": "Mektûbât"
+			},
+			{
+				"eser": "Mesnevî"
+			}
+		],
+		"Necâtî": [
+			{
+				"eser": "Câmi ül Hikâyât"
+			},
+			{
+				"eser": "Kimyâ-yı Saâdet"
+			},
+			{
+				"eser": "Mihr ü Mâh"
+			},
+			{
+				"eser": "Münâzara-i Gül ü Hüsret"
+			}
+		],
+		"Nedim": [
+			{
+				"eser": "Aynî Tarihi"
+			},
+			{
+				"eser": "Sahaifü'l-Ahbar"
+			}
+		],
+		"Nef’î": [
+			{
+				"eser": "Sihâm-ı Kazâ"
+			},
+			{
+				"eser": "Tuhfetü’l-uşşâk"
+			}
+		],
+		"Nesimi": [
+			{
+				"eser": "Mukaddimetü'l-Hakâyık"
+			}
+		],
+		"Nâbi": [
+			{
+				"eser": "Fetih-nâme-i Kamaniçe"
+			},
+			{
+				"eser": "Hayriyye"
+			},
+			{
+				"eser": "Hayrâbâd"
+			},
+			{
+				"eser": "Münşeat "
+			},
+			{
+				"eser": "Sur-nâme"
+			},
+			{
+				"eser": "Tercüme-i Hadîs-i Erbaîn"
+			},
+			{
+				"eser": "Tuhfet ül-Harameyn"
+			},
+			{
+				"eser": "Zeyl-i Siyer-i Veysî"
+			}
+		],
+		"Seydi Ali Reis": [
+			{
+				"eser": "Hulast'el- Hay'a"
+			},
+			{
+				"eser": "Kitab Al-Muhit Fi İlm'al-Eflak Va'l Abhur"
+			},
+			{
+				"eser": "Mir'at Ül' Memalik"
+			},
+			{
+				"eser": "Mirat'ı Kainat"
+			}
+		],
+		"Sultan Veled": [
+			{
+				"eser": "İbtidâ-nâme"
+			},
+			{
+				"eser": "İntihâ-nâme"
+			},
+			{
+				"eser": "Ma’arif"
+			},
+			{
+				"eser": "Rebâb-nâme"
+			}
+		],
+		"Taşlıcalı Yahya": [
+			{
+				"eser": "Gencine-i Râz"
+			},
+			{
+				"eser": "Gülşen-i Envâr"
+			},
+			{
+				"eser": "Kitâb-Usûl"
+			},
+			{
+				"eser": "Yusuf u Züleyha"
+			},
+			{
+				"eser": "Şâh u Gedâ"
+			}
+		],
+		"Şeyh Galip": [
+			{
+				"eser": "Es-Sohbetü's-Sâfiyye"
+			},
+			{
+				"eser": "Hüsn ü Aşk"
+			},
+			{
+				"eser": "Zübde-i alem"
+			},
+			{
+				"eser": "Şerh-i Cezîre-i Mesnevî"
+			}
+		],
+		"Şeyhî": [
+			{
+				"eser": "Harnâme"
+			},
+			{
+				"eser": "Hüsrev ü Şirin"
 			}
 		]
 	},
-	"Servet-i Fünun Dönemi": {
-		"A.Hikmet Müftüoğlu": [
+	"Fecr-i Ati Edebiyatı": {
+		"A. Canip Yöntem": [
 			{
-				"eser": "Çağlayanlar"
+				"eser": "Edebî Nevilerle Mesleklere Dâir Malûmat"
 			},
 			{
-				"eser": "Gönül Hanım"
+				"eser": "Epope"
 			},
 			{
-				"eser": "Haristan Ve Gülistan"
+				"eser": "Geçtiğim Yol"
+			},
+			{
+				"eser": "Millî edebiyat Meselesi ve Cenab Bey'le Münakaşalarım"
+			},
+			{
+				"eser": "Türk Edebiyatı Antolojisi"
 			}
 		],
-		"C. Sahir Erozan": [
+		"A. Faik Ozansoy": [
+			{
+				"eser": "Elhan-ı Vatan"
+			},
+			{
+				"eser": "Fani Teselliler"
+			},
+			{
+				"eser": "Temasil"
+			}
+		],
+		"Ahmet Haşim": [
+			{
+				"eser": "Akşam yine toplandı derinde"
+			},
+			{
+				"eser": "Ağaç"
+			},
+			{
+				"eser": "Bahçe"
+			},
+			{
+				"eser": "Başım"
+			},
+			{
+				"eser": "Bir günün sonunda arzu"
+			},
+			{
+				"eser": "Bir Yaz Gecesi Hatırası"
+			},
+			{
+				"eser": "BülBül"
+			},
+			{
+				"eser": "Gece"
+			},
+			{
+				"eser": "Gelmeden Evvel Geldin Birlikte"
+			},
+			{
+				"eser": "Göl saatleri"
+			},
+			{
+				"eser": "Havuz"
+			},
+			{
+				"eser": "Karanfil"
+			},
+			{
+				"eser": "Karanlık"
+			},
+			{
+				"eser": "Kari'e"
+			},
+			{
+				"eser": "Mehtapta Leylekler"
+			},
+			{
+				"eser": "Merdiven"
+			},
+			{
+				"eser": "Mukaddime"
+			},
+			{
+				"eser": "O belde"
+			},
+			{
+				"eser": "O Eski Hücreye Benzer ki"
+			},
+			{
+				"eser": "Orman"
+			},
+			{
+				"eser": "Parıltı"
+			},
+			{
+				"eser": "Piyale"
+			},
+			{
+				"eser": "Seher"
+			},
+			{
+				"eser": "Sonbahar"
+			},
+			{
+				"eser": "Süvari"
+			},
+			{
+				"eser": "Tahattur"
+			},
+			{
+				"eser": "Yarı Yol"
+			},
+			{
+				"eser": "Öğle"
+			},
+			{
+				"eser": "Şafakta"
+			},
+			{
+				"eser": "Şairsiz Dünya"
+			}
+		],
+		"Celâl Sahir Erozan": [
 			{
 				"eser": "Beyaz Gölgeler"
 			},
@@ -5925,513 +6454,119 @@
 				"eser": "Siyah Kitap"
 			}
 		],
-		"C. Şahabettin": [
+		"Cemil Süleyman": [
 			{
-				"eser": "Avrupa Mektupları"
+				"eser": "İnhizam"
 			},
 			{
-				"eser": "Evrak-ı Eyyam"
+				"eser": "Kadın Ruhu"
 			},
 			{
-				"eser": "Hac Yolunda"
+				"eser": "Siyah Gözler"
 			},
 			{
-				"eser": "Körebe"
+				"eser": "Timsal-i Aşk"
 			},
 			{
-				"eser": "Küçükbeyler"
-			},
-			{
-				"eser": "Suriye Mektupları"
-			},
-			{
-				"eser": "Tamat"
-			},
-			{
-				"eser": "Tiryaki Sözleri"
-			},
-			{
-				"eser": "Yalan"
+				"eser": "Ukde"
 			}
 		],
-		"H. Cahit Yalçın": [
+		"Hamdullah Suphi Tanrıöver": [
 			{
-				"eser": "Hayal İçinde"
+				"eser": "Anadolu Milli Mücadelesi"
 			},
 			{
-				"eser": "Hayat-ı Hakikiye Sahneleri"
+				"eser": "Dağ Yolu"
 			},
 			{
-				"eser": "Hayat-ı Muhayyel"
+				"eser": "Günebakan"
 			},
 			{
-				"eser": "Kavgalarım"
-			},
-			{
-				"eser": "Nadide"
-			},
-			{
-				"eser": "Niçin Aldatırlarmış"
+				"eser": "Namık Kemal Bey Magosa’da"
 			}
 		],
-		"Mehmet Rauf": [
+		"İ. Alaettin Gövsa": [
 			{
-				"eser": "Bir Aşkın Tarihi"
+				"eser": "Acılar"
 			},
 			{
-				"eser": "Böğürtlen"
+				"eser": "Güft ü Gû"
 			},
 			{
-				"eser": "Cidal"
+				"eser": "Nazif’ten Hâmid’e Âhiretten Mektuplar"
 			},
 			{
-				"eser": "Eylül"
+				"eser": "Rumeli’ye Destân-ı Harb"
 			},
 			{
-				"eser": "Ferda-Yı Garam"
+				"eser": "Sulh ve Harb"
 			},
 			{
-				"eser": "Genç Kız Kalbi"
+				"eser": "Söz Oyunları"
 			},
 			{
-				"eser": "Halas"
+				"eser": "Çanakkale İzleri"
 			},
 			{
-				"eser": "İntizar"
+				"eser": "Çocuk Şiirleri"
 			},
 			{
-				"eser": "Kadın İsterse"
-			},
-			{
-				"eser": "Karanfil Ve Yasemin"
-			},
-			{
-				"eser": "Pençe"
-			},
-			{
-				"eser": "Sansar"
-			},
-			{
-				"eser": "Siyah İnciler"
-			},
-			{
-				"eser": "Son Yıldız"
+				"eser": "Şen Yazılar"
 			}
 		],
-		"Tevfik Fikret": [
+		"İ. Melih Devrim": [
 			{
-				"eser": "Doksan Beşe Doğru"
+				"eser": "Henri Bataille"
 			},
 			{
-				"eser": "Haluk’un Defteri"
+				"eser": "Her güzelliğine aşık"
 			},
 			{
-				"eser": "Rübab’ın Cevabı"
+				"eser": "Hüzün ve tebessüm"
 			},
 			{
-				"eser": "Rübab-ı Şikeste"
+				"eser": "Leila"
 			},
 			{
-				"eser": "Şermin"
+				"eser": "Sermet"
 			},
 			{
-				"eser": "Tarih-i Kadim"
-			}
-		]
-	},
-	"Divan Edebiyatı": {
-		"Ahmedi": [
-			{
-				"eser": "Cemşid-ü Hurşid"
-			},
-			{
-				"eser": "İskendername"
-			},
-			{
-				"eser": "Cemşid ü Hurşid"
-			}
-		],
-		"Ali Şir Nevai": [
-			{
-				"eser": "Mecalisü’n-Nefais"
-			},
-			{
-				"eser": "Mizanü’levzan"
-			},
-			{
-				"eser": "Muhakemetü’l-Lügateyn"
-			},
-			{
-				"eser": "Ferhad ü Şirin"
-			},
-			{
-				"eser": "Leyla vü Mecnun"
-			},
-			{
-				"eser": "Mizanü’l Evzan"
-			}
-		],
-		"Baki": [
-			{
-				"eser": "Kanuni Mersiyesi"
-			},
-			{
-				"eser": "Fazail-i Mekke"
-			},
-			{
-				"eser": "Fazailü’l-Cihad"
-			},
-			{
-				"eser": "Mealimü’l-yakin fi-sireti Seyyidü’l Mürselin"
-			},
-			{
-				"eser": "Fazail-i Mekke"
-			},
-			{
-				"eser": "Fazailü’l-Cihad"
-			},
-			{
-				"eser": "Mealimü’l-yakin fi-sireti Seyyidü’l Mürselin"
-			}
-		],
-		"Evliya Çelebi": [
-			{
-				"eser": "Seyahatname"
-			}
-		],
-		"Fuzuli": [
-			{
-				"eser": "Beng-ü Bade"
-			},
-			{
-				"eser": "Enis’ül Kalp"
-			},
-			{
-				"eser": "Hadikat’üs Süeda"
-			},
-			{
-				"eser": "Rind-ü Zahid"
-			},
-			{
-				"eser": "Şikayetname"
-			},
-			{
-				"eser": "Beng ü Bade"
-			},
-			{
-				"eser": "Hadikatü’s-Süeda"
-			},
-			{
-				"eser": "Muamma Risalesi"
-			},
-			{
-				"eser": "Rind ü Zahid"
-			},
-			{
-				"eser": "Sakiname"
-			},
-			{
-				"eser": "Sıhhat ü Maraz"
-			},
-			{
-				"eser": "Tercüme-i Hadis-i Erbain"
-			}
-		],
-		"Aşık Paşa": [
-			{
-				"eser": "Garipname"
-			},
-			{
-				"eser": "Fakrname"
-			},
-			{
-				"eser": "Hikâye ve Kimya Risalesi"
-			},
-			{
-				"eser": "Vasf-ı Hal"
-			}
-		],
-		"Gülşehri": [
-			{
-				"eser": "Mantıku’t-Tayr"
-			},
-			{
-				"eser": "Aruz Risalesi"
-			},
-			{
-				"eser": "Feleknâme"
-			},
-			{
-				"eser": "Kuduri Tercümesi"
-			}
-		],
-		"Hoca Dehhani": [
-			{
-				"eser": "Selçuklu Şehnamesi"
-			}
-		],
-		"Katip Çelebi": [
-			{
-				"eser": "Cihannüma"
-			},
-			{
-				"eser": "Fezleke"
-			},
-			{
-				"eser": "Keşfü’z-Zünun"
-			},
-			{
-				"eser": "Mizan’ül Hak"
-			}
-		],
-		"Mercimek Ahmet": [
-			{
-				"eser": "Kaabusname"
-			}
-		],
-		"Mevlana": [
-			{
-				"eser": "Divan-ı Kebir"
-			},
-			{
-				"eser": "Fihi Mafih"
-			},
-			{
-				"eser": "Mecalis-i Seba"
-			},
-			{
-				"eser": "Mektubat"
-			},
-			{
-				"eser": "Mesnevi"
-			}
-		],
-		"Nabi": [
-			{
-				"eser": "Hayrabad"
-			},
-			{
-				"eser": "Hayriye"
-			},
-			{
-				"eser": "Surname"
-			},
-			{
-				"eser": "Tuhfetü’l-Harameyn"
-			}
-		],
-		"Nefi": [
-			{
-				"eser": "Siham-ı Kaza"
-			}
-		],
-		"Seydi Ali Reis": [
-			{
-				"eser": "Miratü’l-Memalik"
-			}
-		],
-		"Sinan Paşa": [
-			{
-				"eser": "Tazarruname"
-			},
-			{
-				"eser": "Tezkiretü’l Evliya"
-			}
-		],
-		"Süleyman Çelebi": [
-			{
-				"eser": "Vesiletü’n-Necat"
-			},
-			{
-				"eser": "Vesiletü’n-Necat (Mevlid)"
-			}
-		],
-		"Şeyh Galib": [
-			{
-				"eser": "Hüsn-ü Aşk"
-			}
-		],
-		"Şeyhi": [
-			{
-				"eser": "Harname"
-			},
-			{
-				"eser": "Hüsrev-ü Şirin"
-			}
-		],
-		"Zati": [
-			{
-				"eser": "Edirne Şehrengizi"
-			}
-		],
-		"Ahmet Fakih": [
-			{
-				"eser": "Kitab ü Evsaf-ı Mesacidi’ş-şerife"
-			},
-			{
-				"eser": "Çerhnâme"
-			}
-		],
-		"Enderunlu Fazıl": [
-			{
-				"eser": "Defter-i Aşk"
-			},
-			{
-				"eser": "Hübanname"
-			},
-			{
-				"eser": "Zenanname"
-			},
-			{
-				"eser": "Çenginame"
-			}
-		],
-		"Keçecizade İzzet Molla": [
-			{
-				"eser": "Bahar-ı Efkâr"
-			},
-			{
-				"eser": "Devhatü’l-Mehamidmfi Tercümetü’l-Valid"
-			},
-			{
-				"eser": "Gülşen-i Aşk"
-			},
-			{
-				"eser": "Hazan-ı Asar"
-			},
-			{
-				"eser": "Layiha"
-			},
-			{
-				"eser": "Mihnet-i Keşan"
-			}
-		],
-		"Yenişehirli Avni": [
-			{
-				"eser": "Abname"
-			},
-			{
-				"eser": "Ateşgede"
-			},
-			{
-				"eser": "Kaside-i Cülus-i Murad-ı Hamis"
-			},
-			{
-				"eser": "Mir’at-ı Cünun"
-			}
-		],
-		"Şeyhülislam Yahya": [
-			{
-				"eser": "Fetava"
-			},
-			{
-				"eser": "Nigaristan"
-			},
-			{
-				"eser": "Şerh-i Feraiz"
-			}
-		],
-		"Şeyyad Hamza": [
-			{
-				"eser": "Dastan-ı Sultan Mahmut"
-			},
-			{
-				"eser": "Yusuf u Züleyha"
-			}
-		]
-	},
-	"Fecr-i Ati Edebiyatı": {
-		"Ahmet Haşim": [
-			{
-				"eser": "Bize Göre"
-			},
-			{
-				"eser": "Frankfurt Seyahatnamesi"
-			},
-			{
-				"eser": "Göl Saatleri"
-			},
-			{
-				"eser": "Gurabahane-i Laklakan"
-			},
-			{
-				"eser": "Piyale"
-			}
-		],
-		"Tahsin Nahit": [
-			{
-				"eser": "Kösem Sultan"
-			},
-			{
-				"eser": "Ruh-i Bikayd"
-			},
-			{
-				"eser": "Hicranlar"
-			},
-			{
-				"eser": "Jön Türk"
-			},
-			{
-				"eser": "Firar"
-			},
-			{
-				"eser": "Aşkımız"
-			},
-			{
-				"eser": "Sanatkârlar"
-			},
-			{
-				"eser": "Ben Başka"
-			},
-			{
-				"eser": "Talak"
-			},
-			{
-				"eser": "Kırık Mahfaza"
-			},
-			{
-				"eser": "Osman-ı Sani"
+				"eser": "Tezat"
 			}
 		],
 		"R. Halit Karay": [
 			{
-				"eser": "Ekmek Elden Su Gölden"
+				"eser": "Anahtar"
 			},
 			{
-				"eser": "Sakın Aldanma İnanma Kanma"
-			},
-			{
-				"eser": "Agop Paşa’nın Hatıraları"
+				"eser": "Ay Peşinde"
 			},
 			{
 				"eser": "Ayın On Dördü"
 			},
 			{
-				"eser": "Bir Ömür Boyunca"
+				"eser": "Bu Bizim Hayatımız"
 			},
 			{
 				"eser": "Bugünün Saraylısı"
 			},
 			{
-				"eser": "Çete"
-			},
-			{
 				"eser": "Dişi Örümcek"
 			},
 			{
-				"eser": "Dört Yapraklı Yonca…"
+				"eser": "Dört Yapraklı Yonca"
 			},
 			{
-				"eser": "Guguklu Saat"
+				"eser": "Ekmek Elden Su Gölden"
 			},
 			{
-				"eser": "Gurbet Hikayeleri"
+				"eser": "İki Bin Yılın Sevgilisi"
 			},
 			{
 				"eser": "İki Cisimli Kadın"
 			},
 			{
-				"eser": "İstanbul’un İçyüzü"
+				"eser": "İstanbul'un İç Yüzü"
 			},
 			{
 				"eser": "Kadınlar Tekkesi"
@@ -6440,276 +6575,86 @@
 				"eser": "Karlı Dağdaki Ateş"
 			},
 			{
-				"eser": "Kirpinin Dedikleri"
-			},
-			{
-				"eser": "Makyajlı Kadın"
-			},
-			{
-				"eser": "Memleket Hikayeleri"
-			},
-			{
 				"eser": "Nilgün"
 			},
 			{
-				"eser": "Sürgün Anahtar"
+				"eser": "Sonuncu Kade"
 			},
 			{
-				"eser": "Tanrı’ya Şikayet"
+				"eser": "Sürgün"
 			},
 			{
-				"eser": "Yer Altında Dünya Var"
+				"eser": "Yeraltında Dünya Var"
+			},
+			{
+				"eser": "Yerini Seven Fida"
 			},
 			{
 				"eser": "Yezidin Kızı"
-			}
-		]
-	},
-	"Bağımsız": {
-		"Ahmet Rasim": [
-			{
-				"eser": "Afife"
 			},
 			{
-				"eser": "Bir Sefilenin Evrak-ı Metrukesi"
+				"eser": "Yüzen Bahçe"
 			},
 			{
-				"eser": "Gam-ı Hicran"
-			},
-			{
-				"eser": "Gülüp Ağladıklarım"
-			},
-			{
-				"eser": "Güzel Eleni"
-			},
-			{
-				"eser": "Hamamcı Ülfet"
-			},
-			{
-				"eser": "İki Günahkar"
-			},
-			{
-				"eser": "İki Sevgili"
-			},
-			{
-				"eser": "Meyl-i Dil"
-			},
-			{
-				"eser": "Muharrir Bu Ya"
-			},
-			{
-				"eser": "Ömr-i Edebi"
-			},
-			{
-				"eser": "Ramazan Sohbetleri"
-			},
-			{
-				"eser": "Sevda-Yı Sermedi"
-			},
-			{
-				"eser": "Şehir Mektupları"
-			},
-			{
-				"eser": "Ülfet"
+				"eser": "Çete"
 			}
 		],
-		"H. Rahmi Gürpınar": [
+		"Tahsin Nahit": [
 			{
-				"eser": "Utanmaz Adam"
+				"eser": "Aşkımız"
 			},
 			{
-				"eser": "Ben Deli Miyim?"
+				"eser": "Ben Başka"
 			},
 			{
-				"eser": "Billur Kalp"
+				"eser": "Firar"
 			},
 			{
-				"eser": "Bir Muadele-İsevda"
+				"eser": "Hicranlar"
 			},
 			{
-				"eser": "Cadı Çarpışıyor"
+				"eser": "Jön Türk"
 			},
 			{
-				"eser": "Cadı"
+				"eser": "Kösem Sultan"
 			},
 			{
-				"eser": "Can Pazarı"
+				"eser": "Kırık Mahfaza"
 			},
 			{
-				"eser": "Cehennemlik"
+				"eser": "Osman-ı Sani"
 			},
 			{
-				"eser": "Deli Filozof"
+				"eser": "Ruh-i Bikayd"
 			},
 			{
-				"eser": "Dirilen İskelet"
+				"eser": "Sanatkârlar"
 			},
 			{
-				"eser": "Dünyanın Mihveri Kadın Mı Para Mı?"
-			},
-			{
-				"eser": "Efsuncu Baba"
-			},
-			{
-				"eser": "Eşkıya İninde"
-			},
-			{
-				"eser": "Eti Senin Kemiği Benim"
-			},
-			{
-				"eser": "Evlere Şenlik"
-			},
-			{
-				"eser": "Gönül Bir Yeldeğirmenidir Sevda Öğütür"
-			},
-			{
-				"eser": "Gönül Ticareti"
-			},
-			{
-				"eser": "Gulyabani"
-			},
-			{
-				"eser": "Gülbahar Hanım"
-			},
-			{
-				"eser": "Hakka Sığındık"
-			},
-			{
-				"eser": "Hayattan Sayfalar"
-			},
-			{
-				"eser": "Hazan Bülbülü"
-			},
-			{
-				"eser": "İffet"
-			},
-			{
-				"eser": "İki Damla Yaş"
-			},
-			{
-				"eser": "İki Hödüğün Seyahati"
-			},
-			{
-				"eser": "İnsanlar Maymun Muydu"
-			},
-			{
-				"eser": "Kaderin Cilvesi"
-			},
-			{
-				"eser": "Kadın Erkekleşince"
-			},
-			{
-				"eser": "Kadınlar Vaizi"
-			},
-			{
-				"eser": "Katil Buse"
-			},
-			{
-				"eser": "Kaynanam Nasıl Kudurdu?"
-			},
-			{
-				"eser": "Kesik Baş"
-			},
-			{
-				"eser": "Kokotlar Mektebi"
-			},
-			{
-				"eser": "Kuyruklu Yıldız Altında Bir İzdivaç"
-			},
-			{
-				"eser": "Melek Sanmıştım Şeytanı"
-			},
-			{
-				"eser": "Metres"
-			},
-			{
-				"eser": "Meyhanede Hanımlar"
-			},
-			{
-				"eser": "Mezardan Kalkan Şehit"
-			},
-			{
-				"eser": "Mutallaka"
-			},
-			{
-				"eser": "Mürebbiye"
-			},
-			{
-				"eser": "Namusla Açlık Meselesi"
-			},
-			{
-				"eser": "Namuslu Kokotlar"
-			},
-			{
-				"eser": "Nimetşinas"
-			},
-			{
-				"eser": "Ölüler Yaşıyor Mu"
-			},
-			{
-				"eser": "Ölüm Bir Kurtuluş Mudur?"
-			},
-			{
-				"eser": "Sanat Ve Edebiyat"
-			},
-			{
-				"eser": "Sevda Peşinde"
-			},
-			{
-				"eser": "Son Arzu"
-			},
-			{
-				"eser": "Şekavet-i Edebiye Tartışmaları"
-			},
-			{
-				"eser": "Şeytan İşi"
-			},
-			{
-				"eser": "Şık"
-			},
-			{
-				"eser": "Şıpsevdi"
-			},
-			{
-				"eser": "Tebessümü Elem"
-			},
-			{
-				"eser": "Tesadüf"
-			},
-			{
-				"eser": "Tokuşan Kafalar"
-			},
-			{
-				"eser": "Toraman"
-			},
-			{
-				"eser": "Tutulmuş Gönüller"
-			},
-			{
-				"eser": "Tünelden İlk Çıkış"
+				"eser": "Talak"
 			}
 		],
-		"M. Akif Ersoy": [
+		"Şahabettin Süleyman": [
 			{
-				"eser": "Asım"
+				"eser": "Fırtına"
 			},
 			{
-				"eser": "Fatih Kürsüsünde"
+				"eser": "Malumatı Edebiyye"
 			},
 			{
-				"eser": "Gölgeler"
+				"eser": "Osmanlılıkta Vâhime-i Mesûliyyet"
 			},
 			{
-				"eser": "Hakkın Sesleri"
+				"eser": "Tarih-i Edebiyât-ı Osmaniye"
 			},
 			{
-				"eser": "Hatıralar"
+				"eser": "Tenkidat-ı Edebiyye: Namık Kemal"
 			},
 			{
-				"eser": "Süleymaniye Kürsüsünde"
+				"eser": "Yeni Osmanlı Tarih-i Edebiyâtı"
 			},
 			{
-				"eser": "Safahat"
+				"eser": "Çıkmaz Sokak"
 			}
 		]
 	},
@@ -7533,7 +7478,7 @@
 				"eser": "Dedim Dilber Didelerin Islanmış (Koşma)"
 			},
 			{
-				"eser": "Dedim: Dilber sen de sevdakâr mısın?"
+				"eser": "Dedim Dilber sen de sevdakâr mısın?"
 			},
 			{
 				"eser": "Dinleyelim Dağ Başında Figanı"
@@ -8113,14 +8058,549 @@
 			}
 		]
 	},
+	"Milli Edebiyat Dönemi": {
+		"A. Kutsi Tecer": [
+			{
+				"eser": "Bir Pazar Günü"
+			},
+			{
+				"eser": "Koçyiğit Köroğlu"
+			},
+			{
+				"eser": "Köylü Temsilcileri"
+			},
+			{
+				"eser": "Köşebaşı"
+			},
+			{
+				"eser": "Satılık Ev"
+			},
+			{
+				"eser": "Sivas Halk Şairleri Bayramı"
+			},
+			{
+				"eser": "Yazılan Bozulmadan"
+			}
+		],
+		"E. Hazım Teperyan": [
+			{
+				"eser": "Canlı Tarihler"
+			},
+			{
+				"eser": "Eski Şeyler"
+			},
+			{
+				"eser": "Küçük Paşa"
+			},
+			{
+				"eser": "Zalimane Bir İdam Hükmü"
+			}
+		],
+		"Fuat Köprülü": [
+			{
+				"eser": "Tde Hakkında Araştırmalar"
+			},
+			{
+				"eser": "Türk Edb. Tarihi"
+			},
+			{
+				"eser": "Türk Edebiyatında İlk Mutasavvıflar"
+			},
+			{
+				"eser": "Türk Saz Şairleri"
+			}
+		],
+		"M. Emin Yurdakul": [
+			{
+				"eser": "Aydın Kızları"
+			},
+			{
+				"eser": "Dante’ye"
+			},
+			{
+				"eser": "Dicle Önünde"
+			},
+			{
+				"eser": "Ey Türk Uyan"
+			},
+			{
+				"eser": "Fazilet Ve Asilet"
+			},
+			{
+				"eser": "Hastabakıcı Kadınlar"
+			},
+			{
+				"eser": "Mustafa Kemal"
+			},
+			{
+				"eser": "Ordunun Destanı"
+			},
+			{
+				"eser": "Tan Sesleri"
+			},
+			{
+				"eser": "Turana Doğru"
+			},
+			{
+				"eser": "Türk Sazı"
+			},
+			{
+				"eser": "Türkçe Şiirler"
+			},
+			{
+				"eser": "Türk’ün Hukuku"
+			}
+		],
+		"Ruşen Eşref Ünaydın": [
+			{
+				"eser": "Ayrılıklar"
+			},
+			{
+				"eser": "Boğaziçi"
+			}
+		],
+		"Y. Kemal Beyatlı": [
+			{
+				"eser": "Aziz İstanbul"
+			},
+			{
+				"eser": "Edebiyata Dair…"
+			},
+			{
+				"eser": "Eski Şiirin Rüzgarıyla"
+			},
+			{
+				"eser": "Eğil Dağlar"
+			},
+			{
+				"eser": "Kendi Gök Kubbemiz"
+			},
+			{
+				"eser": "Rübailer"
+			},
+			{
+				"eser": "Siyasi Hikayeler"
+			},
+			{
+				"eser": "Siyasi Ve Edebi Portreler"
+			}
+		],
+		"Ziya Gökalp": [
+			{
+				"eser": "Altın Işık"
+			},
+			{
+				"eser": "Kızılelma"
+			},
+			{
+				"eser": "Malta Mektupları"
+			},
+			{
+				"eser": "Türk Medeniyeti Tarihi"
+			},
+			{
+				"eser": "Türkleşmek-İslamlaşmak-Muasırlaşmak"
+			},
+			{
+				"eser": "Türkçülüğün Esasları"
+			}
+		],
+		"Ziya Paşa": [
+			{
+				"eser": "Defter-i Amal"
+			},
+			{
+				"eser": "Emil"
+			},
+			{
+				"eser": "Endülüs Tarihi"
+			},
+			{
+				"eser": "Engizisyon Tarihi"
+			},
+			{
+				"eser": "Eşar-ı Ziya"
+			},
+			{
+				"eser": "Harabad"
+			},
+			{
+				"eser": "Zafername"
+			}
+		],
+		"Ömer Seyfettin": [
+			{
+				"eser": "And"
+			},
+			{
+				"eser": "Ashab-ı Kehfimiz"
+			},
+			{
+				"eser": "Bahar Ve Kelebekler"
+			},
+			{
+				"eser": "Başını Vermeyen Şehit"
+			},
+			{
+				"eser": "Beyaz Lale"
+			},
+			{
+				"eser": "Bomba"
+			},
+			{
+				"eser": "Efruz Bey"
+			},
+			{
+				"eser": "Falaka"
+			},
+			{
+				"eser": "Gizli Mabed"
+			},
+			{
+				"eser": "İlk Düşen Ak"
+			},
+			{
+				"eser": "Kaşağı"
+			},
+			{
+				"eser": "Mahçupluk İmtihanı"
+			},
+			{
+				"eser": "Pembe İncili Kaftan"
+			},
+			{
+				"eser": "Prima Türk Çocuğu"
+			},
+			{
+				"eser": "Topuz"
+			},
+			{
+				"eser": "Yalnız Efe"
+			},
+			{
+				"eser": "Yüksek Ökçeler"
+			}
+		]
+	},
+	"Servet-i Fünun Dönemi": {
+		"A.Hikmet Müftüoğlu": [
+			{
+				"eser": "Gönül Hanım"
+			},
+			{
+				"eser": "Haristan Ve Gülistan"
+			},
+			{
+				"eser": "Çağlayanlar"
+			}
+		],
+		"C. Sahir Erozan": [
+			{
+				"eser": "Beyaz Gölgeler"
+			},
+			{
+				"eser": "Buhran"
+			},
+			{
+				"eser": "Siyah Kitap"
+			}
+		],
+		"C. Şahabettin": [
+			{
+				"eser": "Avrupa Mektupları"
+			},
+			{
+				"eser": "Evrak-ı Eyyam"
+			},
+			{
+				"eser": "Hac Yolunda"
+			},
+			{
+				"eser": "Körebe"
+			},
+			{
+				"eser": "Küçükbeyler"
+			},
+			{
+				"eser": "Suriye Mektupları"
+			},
+			{
+				"eser": "Tamat"
+			},
+			{
+				"eser": "Tiryaki Sözleri"
+			},
+			{
+				"eser": "Yalan"
+			}
+		],
+		"H. Cahit Yalçın": [
+			{
+				"eser": "Hayal İçinde"
+			},
+			{
+				"eser": "Hayat-ı Hakikiye Sahneleri"
+			},
+			{
+				"eser": "Hayat-ı Muhayyel"
+			},
+			{
+				"eser": "Kavgalarım"
+			},
+			{
+				"eser": "Nadide"
+			},
+			{
+				"eser": "Niçin Aldatırlarmış"
+			}
+		],
+		"Mehmet Rauf": [
+			{
+				"eser": "Bir Aşkın Tarihi"
+			},
+			{
+				"eser": "Böğürtlen"
+			},
+			{
+				"eser": "Cidal"
+			},
+			{
+				"eser": "Eylül"
+			},
+			{
+				"eser": "Ferda-Yı Garam"
+			},
+			{
+				"eser": "Genç Kız Kalbi"
+			},
+			{
+				"eser": "Halas"
+			},
+			{
+				"eser": "İntizar"
+			},
+			{
+				"eser": "Kadın İsterse"
+			},
+			{
+				"eser": "Karanfil Ve Yasemin"
+			},
+			{
+				"eser": "Pençe"
+			},
+			{
+				"eser": "Sansar"
+			},
+			{
+				"eser": "Siyah İnciler"
+			},
+			{
+				"eser": "Son Yıldız"
+			}
+		],
+		"Tevfik Fikret": [
+			{
+				"eser": "Doksan Beşe Doğru"
+			},
+			{
+				"eser": "Haluk’un Defteri"
+			},
+			{
+				"eser": "Rübab-ı Şikeste"
+			},
+			{
+				"eser": "Rübab’ın Cevabı"
+			},
+			{
+				"eser": "Tarih-i Kadim"
+			},
+			{
+				"eser": "Şermin"
+			}
+		]
+	},
+	"Tanzimat Dönemi": {
+		"A. Mithat Efendi": [
+			{
+				"eser": "Dürdane Hanım"
+			},
+			{
+				"eser": "Felatun Bey’le Rakım Efendi"
+			},
+			{
+				"eser": "Hasan Mellah"
+			},
+			{
+				"eser": "Henüz 17 Yaşında"
+			},
+			{
+				"eser": "Hüseyin Fellah"
+			},
+			{
+				"eser": "Letaif-i Rivayat"
+			},
+			{
+				"eser": "Paris’te Bir Türk"
+			}
+		],
+		"A. Vefik Paşa": [
+			{
+				"eser": "Lehçe-i Osmani"
+			},
+			{
+				"eser": "Tarih-i Osmani"
+			},
+			{
+				"eser": "Şecere-i Türk"
+			}
+		],
+		"Muallim Naci": [
+			{
+				"eser": "Ateşpare"
+			},
+			{
+				"eser": "Demdeme"
+			},
+			{
+				"eser": "Islahat-ı Edebiye"
+			},
+			{
+				"eser": "Lügat-i Naci"
+			},
+			{
+				"eser": "Şerare"
+			}
+		],
+		"Nabizade Nazım": [
+			{
+				"eser": "Bir Hatıra"
+			},
+			{
+				"eser": "Hâlâ Güzel"
+			},
+			{
+				"eser": "Karabibik"
+			},
+			{
+				"eser": "Sevda"
+			},
+			{
+				"eser": "Zavallı Kız"
+			},
+			{
+				"eser": "Zehra"
+			}
+		],
+		"Namık Kemal": [
+			{
+				"eser": "Akif Bey"
+			},
+			{
+				"eser": "Celaleddin Harzemşah"
+			},
+			{
+				"eser": "Cezmi"
+			},
+			{
+				"eser": "Gülnihal"
+			},
+			{
+				"eser": "İntibah"
+			},
+			{
+				"eser": "Kanije"
+			},
+			{
+				"eser": "Kara Bela"
+			},
+			{
+				"eser": "Renan Müdafaası"
+			},
+			{
+				"eser": "Silistre Muhasarası"
+			},
+			{
+				"eser": "Tahrib-i Harabad"
+			},
+			{
+				"eser": "Takip"
+			},
+			{
+				"eser": "Vatan Yahut Silistre"
+			},
+			{
+				"eser": "Zavallı Çocuk"
+			}
+		],
+		"R. Mahmut Ekrem": [
+			{
+				"eser": "Afife Anjelik"
+			},
+			{
+				"eser": "Araba Sevdası"
+			},
+			{
+				"eser": "Nağme-i Seher"
+			},
+			{
+				"eser": "Nejad"
+			},
+			{
+				"eser": "Pejmürde"
+			},
+			{
+				"eser": "Takdir-i Elhan"
+			},
+			{
+				"eser": "Talim-i Edebiyat"
+			},
+			{
+				"eser": "Vuslat Atala"
+			},
+			{
+				"eser": "Yadigar-ı Şebab"
+			},
+			{
+				"eser": "Zemzeme"
+			},
+			{
+				"eser": "Çok Bilen Çok Yanılır"
+			}
+		],
+		"Samipaşazade Sezai": [
+			{
+				"eser": "İclal"
+			},
+			{
+				"eser": "Küçük Şeyler"
+			},
+			{
+				"eser": "Sergüzeşt"
+			},
+			{
+				"eser": "Şir"
+			}
+		],
+		"Şinasi": [
+			{
+				"eser": "Durub-ı Emsal-i Osmani"
+			},
+			{
+				"eser": "Müntehabat-ı Eşar"
+			},
+			{
+				"eser": "Şair Evlenmesi"
+			}
+		]
+	},
 	"AktifDonemler": [
-		"Milli Edebiyat Dönemi",
+		"Bağımsız",
 		"Cumhuriyet Dönemi",
-		"Tanzimat Dönemi",
-		"Servet-i Fünun Dönemi",
 		"Divan Edebiyatı",
 		"Fecr-i Ati Edebiyatı",
-		"Bağımsız",
-		"Halk Edebiyatı"
+		"Halk Edebiyatı",
+		"Milli Edebiyat Dönemi",
+		"Servet-i Fünun Dönemi",
+		"Tanzimat Dönemi"
 	]
 }
